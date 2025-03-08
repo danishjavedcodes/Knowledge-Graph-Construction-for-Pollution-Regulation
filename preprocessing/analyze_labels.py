@@ -82,5 +82,5 @@ def analyze_annotations(json_file):
     }
 
 if __name__ == "__main__":
-    json_file = r"c:\Users\Danish Javed\Desktop\polution\annotated_text.json"
+    json_file = r"./data/output/annotated_text.json"
     analyze_annotations(json_file)
