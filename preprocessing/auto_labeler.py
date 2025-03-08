@@ -128,4 +128,4 @@ if __name__ == "__main__":
     labeler = AutoLabeler()
     input_path = r"./data/output/cleaned_text.json"
     output_path = r"./data/output/annotated_text.json"
-    labeler.process_file(input_path, output_path)
+    labeler.process_file(input_path, output_path) 
