@@ -43,7 +43,7 @@ def calculate_relation_loss(logits, targets):
     loss = F.binary_cross_entropy_with_logits(logits, target_tensor)
     return loss
 
-def train_model(train_file, val_file=None, epochs=10, batch_size=4, learning_rate=2e-5):
+def train_model(train_file, val_file=None, epochs=10, batch_size=2, learning_rate=2e-5):
     # Initialize dataset
     dataset = MaritimeRegulationsDataset(train_file, max_length=256)  # Reduce sequence length
     
@@ -60,7 +60,7 @@ def train_model(train_file, val_file=None, epochs=10, batch_size=4, learning_rat
     # Handle device placement
     if torch.cuda.is_available():
         # Set memory allocation configuration
-        torch.cuda.set_per_process_memory_fraction(0.7)  # Use only 70% of GPU memory
+        # torch.cuda.set_per_process_memory_fraction(0.7)  # Use only 70% of GPU memory
         device = torch.device('cuda')
     else:
         device = torch.device('cpu')
@@ -108,6 +108,7 @@ def train_model(train_file, val_file=None, epochs=10, batch_size=4, learning_rat
 
 if __name__ == "__main__":
     train_file = r"./preprocessing/data/output/annotated_text.json"
+    torch.cuda.set_per_process_memory_fraction(0.8)
     model = train_model(train_file)
     
     # Save the trained model

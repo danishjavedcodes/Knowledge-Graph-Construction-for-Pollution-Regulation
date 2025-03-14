@@ -5,6 +5,7 @@ from nltk.tokenize import sent_tokenize
 nltk.download('punkt')
 import json
 from pathlib import Path
+import os
 
 class PDFProcessor:
     def __init__(self):
@@ -86,17 +87,30 @@ class PDFProcessor:
         except Exception as e:
             print(f"Error saving Label Studio format: {e}")
 
-def process_pdf(pdf_path, output_path):
+    def process_directory(self, input_dir):
+        """Process all PDF files in the input directory"""
+        all_text = []
+        input_path = Path(input_dir)
+        
+        for pdf_file in input_path.glob('*.pdf'):
+            print(f"Processing: {pdf_file}")
+            text = self.read_pdf(str(pdf_file))
+            if text:
+                cleaned = self.clean_text(text)
+                all_text.append(cleaned)
+        
+        # Combine all cleaned text
+        self.cleaned_text = '\n\n'.join(all_text)
+        return self.cleaned_text
+
+def process_pdfs(input_dir, output_path):
     processor = PDFProcessor()
-    text = processor.read_pdf(pdf_path)
-    if text:
-        cleaned_text = processor.clean_text(text)
-        processor.convert_to_json(output_path)  # Changed from save_to_txt
-        return True
-    return False
+    processor.process_directory(input_dir)
+    processor.convert_to_json(output_path)
+    return True
 
 # Example usage
 if __name__ == "__main__":
-    pdf_path = r"./data/input/oil pollution.pdf"
+    input_dir = r"./data/input"
     output_path = r"./data/output/cleaned_text.txt"
-    process_pdf(pdf_path, output_path)
+    process_pdfs(input_dir, output_path)
