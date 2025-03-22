@@ -1,0 +1,22 @@
+# Deep Learning and ML
+torch>=2.0.0
+transformers>=4.30.0
+scikit-learn>=1.0.2
+
+# NLP Tools
+nltk>=3.8.1
+spacy>=3.5.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
+
+# PDF Processing
+PyPDF2>=3.0.0
+pypdf>=3.9.0
+
+# Data Processing and Visualization
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+
+# IPython for Notebooks
+ipython>=8.12.0
