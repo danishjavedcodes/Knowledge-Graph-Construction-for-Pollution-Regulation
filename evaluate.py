@@ -374,6 +374,30 @@ def train_model(model, train_loader, val_loader, device, save_dir, num_epochs=50
     # Gradient clipping (should be inside the training loop, before optimizer.step())
     torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 
+def plot_evaluation_results(results):
+    tasks = ['Entity1', 'Entity2', 'Relation']
+    metrics = ['accuracy', 'precision', 'recall', 'f1']
+    colors = ['#add8e6', '#90ee90', '#ffcccb', '#f0e68c']  # Light colors for each metric
+    
+    plt.figure(figsize=(12, 8))
+    bar_width = 0.2
+    index = np.arange(len(tasks))
+    
+    for i, metric in enumerate(metrics):
+        values = [results[task][metric] for task in tasks]
+        plt.bar(index + i * bar_width, values, width=bar_width, color=colors[i], label=metric.capitalize())
+    
+    plt.title('Evaluation Metrics')
+    plt.xlabel('Tasks')
+    plt.ylabel('Scores')
+    plt.xticks(index + bar_width * 1.5, tasks)
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+    
+    plt.tight_layout()
+    plt.savefig('evaluation_metrics.png')
+    plt.close()
+
 def main():
     # Configuration
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -502,6 +526,7 @@ def main():
         print(f"{task:<10} | Accuracy: {metrics['accuracy']:.4f} | "
               f"Precision: {metrics['precision']:.4f} | Recall: {metrics['recall']:.4f} | "
               f"F1: {metrics['f1']:.4f}")
+    plot_evaluation_results(results)
 
 if __name__ == "__main__":
     main()
