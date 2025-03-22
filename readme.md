@@ -1,6 +1,6 @@
 # Knowledge Graph Construction for Pollution Regulation
 
-This project aims to construct knowledge graphs from pollution regulation documents using deep learning and natural language processing techniques.
+This project aims to construct knowledge graphs from pollution regulation documents by customizing RoBERTa LLM.
 
 ## Project Structure
 
