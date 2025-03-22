@@ -1,0 +1,17 @@
+{
+  "GENERATES": 0,
+  "MANAGES": 1,
+  "FOLLOW": 2,
+  "REQUIRED": 3,
+  "EXTABLISHED": 4,
+  "APPLY_TO": 5,
+  "RELATED_TO": 6,
+  "REGULATES": 7,
+  "INVOLVE_IN": 8,
+  "MONITORS": 9,
+  "HAVE": 10,
+  "COMPLY_WITH": 11,
+  "IMPLEMENT": 12,
+  "RESTRICT": 13,
+  "CARRY_OUT": 14
+}
