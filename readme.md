@@ -6,18 +6,27 @@ This project aims to construct knowledge graphs from pollution regulation docume
 
 ```
 ├── preprocessing/
-│   ├── data/
+│   ├── data.csv
 │   │   ├── input/
 │   │   │   └── process_pdf.py      # PDF preprocessing utilities
 │   │   └── output/
 │   ├── analyze_labels.py           # Analyze entity and relation labels
 │   ├── auto_labeler.py            # Automatic labeling of entities and relations
 │   └── pdf_processor.py           # Main PDF processing pipeline
+├── data/
+│   ├── data.csv        #data for training and validation
+│   └── test.csv        #data for testing evaluation
+├── matrics/
+│   ├── evaluation_results.csv        # Model results predicted by test data
+│   └── train_metrics.csv & val_metrics.csv   # Training logs for test and validation data
 ├── models/
-│   ├── best_kg_model.pt           # Trained model checkpoint
+│   ├── best_kg_model.pt (download here) # Trained model checkpoint
+|   ├── bert_model.py
 │   ├── entity_type_map.json       # Entity type mappings
 │   └── relation_type_map.json     # Relation type mappings
-├── main.py                        # Model building, data splitting and training script
+├── train.py                       # Model building, data splitting and training script
+├── plot_metrics.py                    
+├── print_model_summary.py  
 └── evaluate.py                    # Model evaluation script
 ```
 
@@ -70,19 +79,12 @@ This project aims to construct knowledge graphs from pollution regulation docume
 
 ## Usage Order
 
-1. Run preprocessing pipeline:
-```bash
-python preprocessing/pdf_processor.py
-python preprocessing/auto_labeler.py
-python preprocessing/analyze_labels.py
-```
-
-2. Train the model:
+1. Train the model: (model is already trained so not recomended)
 ```bash
 python main.py
 ```
 
-3. Evaluate the model:
+2. Evaluate the model:
 ```bash
 python evaluate.py
 ```
