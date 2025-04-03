@@ -1,0 +1,1049 @@
+sentence_id,sentence,entity1,entity1_start,entity1_end,entity1_type,entity2,entity2_start,entity2_end,entity2_type,relation_type
+1,"The Authority ensures ships comply with MARPOL procedures",Authority,4,12,AUTHORITIES,MARPOL procedures,34,49,PROCEDURES,REGULATES
+2,"Port Authority must provide adequate waste facilities",Port Authority,0,12,AUTHORITIES,waste facilities,30,44,PROCEDURES,IMPLEMENT
+3,"Masters must deliver ship-generated waste to facilities",Masters,0,6,SUBJECT REGULATED,ship-generated waste,18,35,POLLUTANT,RESTRICT
+4,"Authorized Officers inspect ships for compliance",Authorized Officers,0,17,AUTHORITIES,ships,31,36,SYSTEM,MONITORS
+5,"Waste management plans require Authority approval",waste management plans,0,20,DOCUMENTS,Authority,31,39,AUTHORITIES,REQUIRED
+6,"Zanzibar Maritime Authority appoints inspectors",Zanzibar Maritime Authority,0,23,AUTHORITIES,inspectors,32,41,AUTHORITIES,HAVE
+7,"Ships must notify arrival 24 hours prior",ships,0,5,SYSTEM,arrival notification,18,35,PROCEDURES,FOLLOW
+8,"Port operators submit annual waste reports",Port operators,0,12,SUBJECT REGULATED,waste reports,26,37,DOCUMENTS,GENERATES
+9,"Bilge water must be processed properly",Bilge water,0,9,POLLUTANT,processing procedures,25,42,PROCEDURES,APPLY_TO
+10,"MARPOL 73/78 regulates toxic substance disposal",MARPOL 73/78,0,11,DOCUMENTS,toxic substance disposal,23,41,DISPOSAL,REGULATES
+11,"Authority detains non-compliant vessels",Authority,0,9,AUTHORITIES,non-compliant vessels,22,38,SYSTEM,MANAGES
+12,"Cargo residues require special handling",Cargo residues,0,13,POLLUTANT,special handling,26,39,PROCEDURES,REQUIRED
+13,"Fishing vessels have waste exemptions",Fishing vessels,0,13,SYSTEM,waste exemptions,23,36,PROCEDURES,APPLY_TO
+14,"Sewage discharge violates environmental standards",Sewage discharge,0,14,POLLUTANT,environmental standards,28,46,DOCUMENTS,COMPLY_WITH
+15,"Terminal operators collect waste fees",Terminal operators,0,15,SUBJECT REGULATED,waste fees,27,36,PENALTIES,IMPLEMENT
+16,"Annual reports track waste quantities",Annual reports,0,12,DOCUMENTS,waste quantities,22,35,POLLUTANT,MONITORS
+17,"Environmental assessments precede facility construction",Environmental assessments,0,20,DOCUMENTS,facility construction,31,49,PROCEDURES,REQUIRED
+18,"Toxic liquid waste needs special storage",Toxic liquid waste,0,16,POLLUTANT,special storage,26,39,PROCEDURES,REQUIRED
+19,"Port reception facilities handle multiple waste types",Port reception facilities,0,21,PROCEDURES,waste types,35,45,POLLUTANT,INVOLVE_IN
+20,"Ships with exemptions still follow basic protocols",Ships,0,5,SYSTEM,basic protocols,32,46,PROCEDURES,COMPLY_WITH
+21,"Authority prepares waste management plans",Authority,0,9,AUTHORITIES,waste management plans,20,37,DOCUMENTS,REQUIRED
+22,"Port operators allocate land for facilities",Port operators,0,12,SUBJECT REGULATED,land allocation,26,38,PROCEDURES,IMPLEMENT
+23,"Environmental Management Authority issues permits",Environmental Management Authority,0,28,AUTHORITIES,permits,39,45,DOCUMENTS,GENERATES
+24,"Slop tanks contain oily residues",Slop tanks,0,9,EQUIPMENT,oily residues,22,32,POLLUTANT,HAVE
+25,"Garbage disposal falls under MARPOL Annex-V",Garbage disposal,0,14,DISPOSAL,MARPOL Annex-V,28,40,DOCUMENTS,COMPLY_WITH
+26,"Terminal operators report violations",Terminal operators,0,15,SUBJECT REGULATED,violations,23,33,DOCUMENTS,GENERATES
+27,"Bilge compartments accumulate wastewater",Bilge compartments,0,15,EQUIPMENT,wastewater,26,35,POLLUTANT,HAVE
+28,"Authority enforces sewage regulations",Authority,0,9,AUTHORITIES,sewage regulations,20,36,PROCEDURES,IMPLEMENT
+29,"Plastic waste requires separate handling",Plastic waste,0,11,POLLUTANT,separate handling,24,38,PROCEDURES,REQUIRED
+30,"MARPOL Annex-II lists toxic substances",MARPOL Annex-II,0,12,DOCUMENTS,toxic substances,23,37,POLLUTANT,REGULATES
+31,"Port fees cover facility maintenance",Port fees,0,8,PENALTIES,facility maintenance,18,34,PROCEDURES,IMPLEMENT
+32,"Recreational craft follow waste protocols",Recreational craft,0,16,SYSTEM,waste protocols,27,39,PROCEDURES,COMPLY_WITH
+33,"Sludge disposal requires special permits",Sludge disposal,0,13,DISPOSAL,special permits,24,36,DOCUMENTS,REQUIRED
+34,"Authority reviews waste management plans",Authority,0,9,AUTHORITIES,waste management plans,20,37,DOCUMENTS,MONITORS
+35,"Cargo tanks must be cleaned properly",Cargo tanks,0,10,EQUIPMENT,proper cleaning,21,33,PROCEDURES,REQUIRED
+36,"Annual reports include violation data",Annual reports,0,12,DOCUMENTS,violation data,22,34,DOCUMENTS,HAVE
+37,"Authority coordinates with police during inspections",Authority,0,9,AUTHORITIES,police coordination,23,37,AUTHORITIES,RELATED_TO
+38,"Ballast water treatment follows standards",Ballast water treatment,0,20,PROCEDURES,standards,31,39,DOCUMENTS,COMPLY_WITH
+39,"Port operators maintain facility capacity",Port operators,0,12,SUBJECT REGULATED,facility capacity,26,40,SPECIFICATION,MANAGES
+40,"Toxic waste storage needs containment systems",Toxic waste storage,0,17,POLLUTANT,containment systems,28,43,EQUIPMENT,REQUIRED
+41,"Authority approves facility locations",Authority,0,9,AUTHORITIES,facility locations,20,35,SPECIFICATION,REGULATES
+42,"Ships carry waste declaration forms",Ships,0,5,SYSTEM,waste declaration forms,16,33,DOCUMENTS,HAVE
+43,"MARPOL Annex-IV governs effluent discharge",MARPOL Annex-IV,0,12,DOCUMENTS,effluent discharge,23,37,DISPOSAL,REGULATES
+44,"Terminal operators train staff on protocols",Terminal operators,0,15,SUBJECT REGULATED,staff training,23,35,PROCEDURES,IMPLEMENT
+45,"Bilge monitoring prevents pollution",Bilge monitoring,0,13,PROCEDURES,pollution prevention,24,39,ACTIVITIES,RESTRICT
+46,"Authority sets waste storage standards",Authority,0,9,AUTHORITIES,waste storage standards,20,37,SPECIFICATION,EXTABLISHED
+47,"Cargo residue handling requires PPE",Cargo residue handling,0,19,PROCEDURES,PPE,30,33,EQUIPMENT,REQUIRED
+48,"Annual facility audits ensure compliance",Annual facility audits,0,18,PROCEDURES,compliance,30,39,DOCUMENTS,MONITORS
+49,"Authority restricts plastic disposal",Authority,0,9,AUTHORITIES,plastic disposal,20,33,DISPOSAL,RESTRICT
+50,"Port fees fund environmental initiatives",Port fees,0,8,PENALTIES,environmental initiatives,18,36,ACTIVITIES,IMPLEMENT
+51,"Waste reception ships need certification",Waste reception ships,0,19,SYSTEM,certification,30,41,DOCUMENTS,REQUIRED
+52,"MARPOL Annex-VI regulates air emissions",MARPOL Annex-VI,0,13,DOCUMENTS,air emissions,24,35,POLLUTANT,REGULATES
+53,"Authority inspects waste transport vehicles",Authority,0,9,AUTHORITIES,waste transport vehicles,20,37,EQUIPMENT,MONITORS
+54,"Terminal operators manage waste segregation",Terminal operators,0,15,SUBJECT REGULATED,waste segregation,23,36,PROCEDURES,MANAGES
+55,"Oil spill response plans are mandatory",Oil spill response plans,0,20,DOCUMENTS,mandatory status,31,44,REQUIREMENTS,REQUIRED
+56,"Authority approves exemption requests",Authority,0,9,AUTHORITIES,exemption requests,20,35,DOCUMENTS,REGULATES
+57,"Ships maintain waste storage logs",Ships,0,5,SYSTEM,waste storage logs,16,30,DOCUMENTS,HAVE
+58,"Port operators display fee schedules",Port operators,0,12,SUBJECT REGULATED,fee schedules,23,34,DOCUMENTS,HAVE
+59,"Hazardous waste labels must be visible",Hazardous waste labels,0,19,DOCUMENTS,visibility requirements,30,47,REQUIREMENTS,COMPLY_WITH
+60,"Authority enforces detention protocols",Authority,0,9,AUTHORITIES,detention protocols,20,35,PROCEDURES,IMPLEMENT
+61,"Waste analysis requires lab certification",Waste analysis,0,12,PROCEDURES,lab certification,23,37,DOCUMENTS,REQUIRED
+62,"MARPOL Annex-I covers oil pollution",MARPOL Annex-I,0,11,DOCUMENTS,oil pollution,22,33,POLLUTANT,REGULATES
+63,"Terminal operators schedule waste pickups",Terminal operators,0,15,SUBJECT REGULATED,waste pickups,23,34,PROCEDURES,IMPLEMENT
+64,"Bilge alarms monitor pollution levels",Bilge alarms,0,10,EQUIPMENT,pollution levels,21,34,SPECIFICATION,MONITORS
+65,"Authority publishes compliance guidelines",Authority,0,9,AUTHORITIES,compliance guidelines,20,37,DOCUMENTS,GENERATES
+66,"Cargo holds require post-unload cleaning",Cargo holds,0,11,EQUIPMENT,post-unload cleaning,22,37,PROCEDURES,REQUIRED
+67,"Annual training covers waste procedures",Annual training,0,13,ACTIVITIES,waste procedures,24,38,PROCEDURES,HAVE
+68,"Authority restricts night waste deliveries",Authority,0,9,AUTHORITIES,night waste deliveries,20,36,ACTIVITIES,RESTRICT
+69,"Port operators maintain emergency protocols",Port operators,0,12,SUBJECT REGULATED,emergency protocols,23,38,PROCEDURES,HAVE
+70,"Waste manifests accompany all shipments",Waste manifests,0,12,DOCUMENTS,shipments,30,39,ACTIVITIES,APPLY_TO
+71,"MARPOL certificates must be current",MARPOL certificates,0,15,DOCUMENTS,current status,26,38,REQUIREMENTS,REQUIRED
+72,"Authority audits waste management systems",Authority,0,9,AUTHORITIES,waste management systems,20,39,SYSTEM,MONITORS
+73,"Terminal operators report facility upgrades",Terminal operators,0,15,SUBJECT REGULATED,facility upgrades,23,37,DOCUMENTS,GENERATES
+74,"Bilge water sampling follows strict protocols",Bilge water sampling,0,18,PROCEDURES,strict protocols,30,44,REQUIREMENTS,COMPLY_WITH
+75,"Authority coordinates regional enforcement",Authority,0,9,AUTHORITIES,regional enforcement,23,38,ACTIVITIES,RELATED_TO
+76,"Waste containers require UN certification",Waste containers,0,15,EQUIPMENT,UN certification,26,38,DOCUMENTS,REQUIRED
+77,"MARPOL training is mandatory for crews",MARPOL training,0,12,PROCEDURES,crews,23,28,SUBJECT REGULATED,REQUIRED
+78,"Port operators maintain spill response kits",Port operators,0,12,SUBJECT REGULATED,spill response kits,23,38,EQUIPMENT,HAVE
+79,"Authority reviews exemption applications",Authority,0,9,AUTHORITIES,exemption applications,20,37,DOCUMENTS,MONITORS
+80,"Cargo residue analysis determines disposal",Cargo residue analysis,0,19,PROCEDURES,disposal methods,30,44,DISPOSAL,REGULATES
+81,"Annual budgets allocate waste funds",Annual budgets,0,12,DOCUMENTS,waste funds,23,32,PENALTIES,MANAGES
+82,"Authority enforces record-keeping rules",Authority,0,9,AUTHORITIES,record-keeping rules,20,35,REQUIREMENTS,IMPLEMENT
+83,"Waste transfer notes must be retained",Waste transfer notes,0,17,DOCUMENTS,retention periods,28,42,REQUIREMENTS,COMPLY_WITH
+84,"MARPOL compliance affects port access",MARPOL compliance,0,14,DOCUMENTS,port access,25,34,ACTIVITIES,RELATED_TO
+85,"Terminal operators inspect storage areas",Terminal operators,0,15,SUBJECT REGULATED,storage areas,23,35,EQUIPMENT,MONITORS
+86,"Bilge treatment systems reduce pollution",Bilge treatment systems,0,19,EQUIPMENT,pollution reduction,30,46,ACTIVITIES,RESTRICT
+87,"Authority mandates waste minimization",Authority,0,9,AUTHORITIES,waste minimization,20,35,PROCEDURES,IMPLEMENT
+88,"Port operators display emergency contacts",Port operators,0,12,SUBJECT REGULATED,emergency contacts,23,37,DOCUMENTS,HAVE
+89,"Hazardous waste transport requires permits",Hazardous waste transport,0,22,ACTIVITIES,permits,33,39,DOCUMENTS,REQUIRED
+90,"MARPOL amendments update requirements",MARPOL amendments,0,14,DOCUMENTS,updated requirements,25,40,REQUIREMENTS,ESTABLISHED
+91,"Authority monitors waste disposal routes",Authority,0,9,AUTHORITIES,waste disposal routes,20,36,ACTIVITIES,MONITORS
+92,"Terminal operators train on spill response",Terminal operators,0,15,SUBJECT REGULATED,spill response,23,35,PROCEDURES,IMPLEMENT
+93,"Bilge water capacity affects operations",Bilge water capacity,0,17,SPECIFICATION,operations,28,37,ACTIVITIES,RELATED_TO
+94,"Authority publishes penalty guidelines",Authority,0,9,AUTHORITIES,penalty guidelines,20,35,DOCUMENTS,GENERATES
+95,"Waste classification determines handling",Waste classification,0,16,PROCEDURES,handling methods,27,40,PROCEDURES,REGULATES
+96,"MARPOL certificates expire annually",MARPOL certificates,0,15,DOCUMENTS,annual expiration,26,40,REQUIREMENTS,REQUIRED
+97,"Port operators maintain facility maps",Port operators,0,12,SUBJECT_REGULATED,facility maps,23,34,DOCUMENTS,MAINTAIN
+98,"Authority restricts waste export",Authority,0,9,AUTHORITIES,waste export,20,31,ACTIVITIES,RESTRICT
+99,"Terminal operators verify waste quantities",Terminal operators,0,15,SUBJECT_REGULATED,waste quantities,23,36,POLLUTANT,VERIFY
+100,"Bilge alarm systems require calibration",Bilge alarm systems,0,17,EQUIPMENTS,calibration,28,37,PROCEDURES,REQUIRE
+101,"MARPOL training includes emergency drills",MARPOL training,0,12,PROCEDURES,emergency drills,23,36,ACTIVITIES,INVOLVE_IN
+102,"Authority coordinates with IMO",Authority,0,9,AUTHORITIES,IMO,23,26,AUTHORITIES,RELATED_TO
+103,"Waste audits ensure regulatory compliance",Waste audits,0,10,PROCEDURES,regulatory compliance,21,38,DOCUMENTS,MONITORS
+104,"Port operators maintain safety data sheets",Port operators,0,12,SUBJECT REGULATED,safety data sheets,23,38,DOCUMENTS,HAVE
+105,"Authority enforces waste segregation rules",Authority,0,9,AUTHORITIES,waste segregation rules,20,37,REQUIREMENTS,IMPLEMENT
+106,"Terminal operators schedule facility maintenance",Terminal operators,0,15,SUBJECT REGULATED,facility maintenance,23,40,PROCEDURES,CARRY_OUT
+107,"Bilge water analysis detects contaminants",Bilge water analysis,0,18,PROCEDURES,contaminants,29,41,POLLUTANT,GENERATES
+108,"MARPOL compliance requires documentation",MARPOL compliance,0,14,DOCUMENTS,documentation,25,36,DOCUMENTS,REQUIRED
+109,"Authority reviews facility performance",Authority,0,9,AUTHORITIES,facility performance,20,35,DOCUMENTS,MONITORS
+110,"Waste transportation follows strict routes",Waste transportation,0,17,ACTIVITIES,strict routes,28,38,SPECIFICATION,FOLLOW
+111,"A shipper must classify doubtful dangerous goods via approved authority",shipper,2,9,SUBJECT_REGULATED,dangerous goods,34,48,POLLUTANT,REQUIRED
+112,"IMDG Code dictates packaging for irradiated nuclear fuel",IMDG Code,0,8,DOCUMENTS,irradiated nuclear fuel,31,50,POLLUTANT,REGULATES
+113,"Masters must notify authorities of packaged goods loss",Masters,0,7,SUBJECT_REGULATED,packaged goods loss,26,42,ACTIVITIES,REPORT
+114,"Bulk cargoes require IBC Code compliance",Bulk cargoes,0,12,POLLUTANT,IBC Code,26,34,DOCUMENTS,COMPLY_WITH
+115,"Authority inspects explosive stowage pre-loading",Authority,0,9,AUTHORITIES,explosive stowage,24,38,SPECIFICATION,MONITORS
+116,"Employees must report safety violations",Employees,0,9,SUBJECT_REGULATED,safety violations,22,37,PENALTIES,REPORT
+117,"Gas Carrier Code applies to liquefied gases",Gas Carrier Code,0,14,DOCUMENTS,liquefied gases,26,40,POLLUTANT,APPLY_TO
+118,"Shipper provides UN numbers for dangerous substances",Shipper,0,7,SUBJECT_REGULATED,UN numbers,18,26,SPECIFICATION,PROVIDE
+119,"Flammable liquids need flash point documentation",Flammable liquids,0,15,POLLUTANT,flash point documentation,21,40,DOCUMENTS,REQUIRED
+120,"BCH Code governs chemical carrier construction",BCH Code,0,8,DOCUMENTS,chemical carrier construction,20,40,SPECIFICATION,REGULATES
+121,"Masters verify dangerous goods declarations",Masters,0,7,SUBJECT_REGULATED,dangerous goods declarations,21,41,DOCUMENTS,VERIFY
+122,"Authority issues document of compliance",Authority,0,9,AUTHORITIES,document of compliance,20,37,DOCUMENTS,GENERATES
+123,"Packaging must withstand three-month immersion",Packaging,0,9,SPECIFICATION,three-month immersion,23,39,SPECIFICATION,REQUIRED
+124,"Bulk cargo documentation includes stowage plans",Bulk cargo documentation,0,20,DOCUMENTS,stowage plans,32,44,SPECIFICATION,HAVE
+125,"Surveyors inspect dangerous goods loading",Surveyors,0,9,AUTHORITIES,dangerous goods loading,23,40,ACTIVITIES,MONITORS
+126,"Radioactive materials require special closure",Radioactive materials,0,18,POLLUTANT,special closure,28,40,SPECIFICATION,REQUIRED
+127,"Port authorities receive waste notification forms",Port authorities,0,14,AUTHORITIES,waste notification forms,28,46,DOCUMENTS,GENERATES
+128,"MARPOL certificates must accompany shipments",MARPOL certificates,0,16,DOCUMENTS,shipments,27,36,ACTIVITIES,APPLY_TO
+129,"Toxic substances demand segregation",Toxic substances,0,15,POLLUTANT,segregation,25,35,SPECIFICATION,REQUIRED
+130,"Authority compiles waste quantity reports",Authority,0,9,AUTHORITIES,waste quantity reports,20,36,DOCUMENTS,GENERATES
+131,"Cargo residues fall under MARPOL Annex-V",Cargo residues,0,13,POLLUTANT,MARPOL Annex-V,27,40,DOCUMENTS,REGULATES
+132,"Sewage discharge violates environmental standards",Sewage discharge,0,14,POLLUTANT,environmental standards,28,46,DOCUMENTS,RESTRICT
+133,"Terminal operators display fee schedules",Terminal operators,0,15,SUBJECT_REGULATED,fee schedules,23,34,DOCUMENTS,HAVE
+134,"Intermediate flashpoint group includes liquids with flashpoint -18°C to 23°C",Intermediate flashpoint group,0,25,SPECIFICATION,liquids,46,52,POLLUTANT,INCLUDE
+135,"High flashpoint group covers liquids with flashpoint 23°C to 61°C",High flashpoint group,0,19,SPECIFICATION,liquids,37,43,POLLUTANT,COVER
+136,"Flammable solids classified under Class 4.1",Flammable solids,0,14,POLLUTANT,Class 4.1,28,36,CLASSIFICATION,REGULATES
+137,"Substances liable to spontaneous combustion fall under Class 4.2",Substances liable to spontaneous combustion,0,34,POLLUTANT,Class 4.2,48,56,CLASSIFICATION,REGULATES
+138,"Water-reactive substances emitting flammable gases categorized under Class 4.3",Water-reactive substances,0,22,POLLUTANT,Class 4.3,59,67,CLASSIFICATION,REGULATES
+139,"Oxidising substances regulated under Class 5.1",Oxidising substances,0,19,POLLUTANT,Class 5.1,33,41,CLASSIFICATION,REGULATES
+140,"Organic peroxides governed by Class 5.2",Organic peroxides,0,15,POLLUTANT,Class 5.2,29,37,CLASSIFICATION,REGULATES
+141,"Toxic substances controlled under Class 6.1",Toxic substances,0,15,POLLUTANT,Class 6.1,31,39,CLASSIFICATION,REGULATES
+142,"Infectious substances monitored under Class 6.2",Infectious substances,0,19,POLLUTANT,Class 6.2,33,41,CLASSIFICATION,MONITORS
+143,"Radioactive materials regulated by Class 7",Radioactive materials,0,18,POLLUTANT,Class 7,32,39,CLASSIFICATION,REGULATES
+144,"Corrosives governed by Class 8",Corrosives,0,10,POLLUTANT,Class 8,24,31,CLASSIFICATION,REGULATES
+145,"Miscellaneous dangerous substances fall under Class 9",Miscellaneous dangerous substances,0,29,POLLUTANT,Class 9,43,50,CLASSIFICATION,REGULATES
+146,"Authority serves notice for oil pollution violations",Authority,0,9,AUTHORITIES,oil pollution violations,23,42,PENALTIES,MANAGES
+147,"Shipboard oil pollution emergency plans required",Shipboard oil pollution emergency plans,0,32,DOCUMENTS,ships,41,46,SYSTEM,REQUIRED
+148,"Power to inspect granted for pollution prevention",Power to inspect,0,13,AUTHORITIES,pollution prevention,23,41,PROCEDURES,IMPLEMENT
+149,"Power to deny entry applies to polluting ships",Power to deny entry,0,17,AUTHORITIES,polluting ships,28,40,SYSTEM,APPLY_TO
+150,"Detention powers cover environmental violations",Detention powers,0,15,AUTHORITIES,environmental violations,27,46,PENALTIES,MANAGES
+151,"Suspension of proceedings possible at flag state request",Suspension of proceedings,0,20,PROCEDURES,flag state request,33,49,REQUIREMENTS,REQUIRED
+152,"Compounding of offences handled by Authority",Compounding of offences,0,19,PROCEDURES,Authority,32,41,AUTHORITIES,MONITORS
+153,"Annex I regulates oil pollution prevention",Annex I,0,7,DOCUMENTS,oil pollution prevention,18,36,PROCEDURES,REGULATES
+154,"IOPP Certificate establishes compliance",IOPP Certificate,0,13,DOCUMENTS,compliance,27,36,DOCUMENTS,EXTABLISHED
+155,"Breadth measurement follows specific guidelines",Breadth measurement,0,16,SPECIFICATION,guidelines,31,40,DOCUMENTS,FOLLOW
+156,"Central tank design prevents oil spills",Central tank,0,12,SPECIFICATION,oil spills,28,37,POLLUTANT,RESTRICT
+157,"Release of harmful substances restricted",Release of harmful substances,0,24,POLLUTANT,restricted,38,47,PENALTIES,RESTRICT
+158,"Dumping regulations exclude certain activities",Dumping regulations,0,16,DOCUMENTS,certain activities,27,41,ACTIVITIES,RESTRICT
+159,"Offshore processing releases governed separately",Offshore processing releases,0,23,POLLUTANT,governed,34,42,DOCUMENTS,REGULATES
+160,"Registrar of Ships grants exemptions",Registrar of Ships,0,17,AUTHORITIES,exemptions,28,38,DOCUMENTS,GENERATES
+161,"Equivalent standards accepted by Authority",Equivalent standards,0,17,SPECIFICATION,Authority,30,39,AUTHORITIES,MONITORS
+162,"Oil Record Book maintains discharge data",Oil Record Book,0,14,DOCUMENTS,discharge data,25,37,DOCUMENTS,HAVE
+163,"Surveys verify compliance status",Surveys,0,7,PROCEDURES,compliance status,18,31,DOCUMENTS,MONITORS
+164,"Certificates document regulatory adherence",Certificates,0,11,DOCUMENTS,regulatory adherence,22,39,DOCUMENTS,HAVE
+165,"Offshore installations follow special requirements",Offshore installations,0,19,SYSTEM,special requirements,30,47,SPECIFICATION,FOLLOW
+166,"Emergency plans address pollution incidents",Emergency plans,0,14,PROCEDURES,pollution incidents,25,41,ACTIVITIES,INVOLVE_IN
+167,"Inspection powers ensure regulatory compliance",Inspection powers,0,16,AUTHORITIES,regulatory compliance,27,46,DOCUMENTS,MONITORS
+168,"Entry denial prevents environmental damage",Entry denial,0,12,AUTHORITIES,environmental damage,23,40,POLLUTANT,RESTRICT
+169,"Detention authority manages violations",Detention authority,0,17,AUTHORITIES,violations,28,38,PENALTIES,MANAGES
+170,"Flag state requests influence proceedings",Flag state requests,0,17,REQUIREMENTS,proceedings,28,38,PROCEDURES,RELATED_TO
+171,"Offence compounding reduces legal procedures",Offence compounding,0,17,PROCEDURES,legal procedures,28,41,PROCEDURES,RESTRICT
+172,"Anniversary date marks certificate renewal",Anniversary date,0,15,SPECIFICATION,certificate renewal,26,40,DOCUMENTS,EXTABLISHED
+173,"Amidships measurement determines stability",Amidships measurement,0,18,SPECIFICATION,stability,29,37,SPECIFICATION,REQUIRED
+174,"Tank configuration affects oil containment",Tank configuration,0,17,SPECIFICATION,oil containment,28,40,SPECIFICATION,RELATED_TO
+175,"Harmful substance release triggers penalties",Harmful substance release,0,23,POLLUTANT,penalties,34,43,PENALTIES,GENERATES
+176,"Dumping convention excludes certain discharges",Dumping convention,0,15,DOCUMENTS,certain discharges,26,40,POLLUTANT,RESTRICT
+177,"Offshore exploration releases regulated differently",Offshore exploration releases,0,25,POLLUTANT,regulated,36,44,DOCUMENTS,REGULATES
+178,"Authority specifies exemption terms",Authority,0,9,AUTHORITIES,exemption terms,20,32,DOCUMENTS,REQUIRED
+179,"Equivalent alternatives accepted by regulations",Equivalent alternatives,0,19,SPECIFICATION,regulations,30,41,DOCUMENTS,MONITORS
+180,"Oil pollution prevention requires documentation",Oil pollution prevention,0,22,PROCEDURES,documentation,33,45,DOCUMENTS,REQUIRED
+181,"Survey procedures verify system integrity",Survey procedures,0,15,PROCEDURES,system integrity,26,39,SPECIFICATION,MONITORS
+182,"Certificate issuance confirms compliance",Certificate issuance,0,18,PROCEDURES,compliance,29,38,DOCUMENTS,EXTABLISHED
+183,"Installation requirements specify safety measures",Installation requirements,0,21,SPECIFICATION,safety measures,32,45,SPECIFICATION,REQUIRED
+184,"Emergency response addresses oil spills",Emergency response,0,16,PROCEDURES,oil spills,27,36,POLLUTANT,INVOLVE_IN
+185,"Inspection protocols ensure safety standards",Inspection protocols,0,18,PROCEDURES,safety standards,29,42,SPECIFICATION,REQUIRED
+186,"Entry restrictions prevent environmental harm",Entry restrictions,0,16,AUTHORITIES,environmental harm,27,43,POLLUTANT,RESTRICT
+187,"Detention procedures manage non-compliance",Detention procedures,0,18,PROCEDURES,non-compliance,29,41,PENALTIES,MANAGES
+188,"Flag state communication influences decisions",Flag state communication,0,20,REQUIREMENTS,decisions,31,40,PROCEDURES,RELATED_TO
+189,"Offence resolution reduces legal actions",Offence resolution,0,17,PROCEDURES,legal actions,28,39,PROCEDURES,RESTRICT
+190,"Anniversary renewal maintains certification",Anniversary renewal,0,18,PROCEDURES,certification,29,40,DOCUMENTS,HAVE
+191,"Amidships stability ensures safe operation",Amidships stability,0,17,SPECIFICATION,safe operation,28,40,ACTIVITIES,REQUIRED
+192,"Tank arrangement optimizes containment",Tank arrangement,0,15,SPECIFICATION,containment,26,36,SPECIFICATION,RELATED_TO
+193,"Harmful discharge triggers regulatory action",Harmful discharge,0,15,POLLUTANT,regulatory action,26,40,ACTIVITIES,GENERATES
+194,"Dumping exclusion covers specific activities",Dumping exclusion,0,15,DOCUMENTS,specific activities,26,40,ACTIVITIES,COVER
+195,"Offshore release regulation differs",Offshore release,0,13,POLLUTANT,regulation,24,33,DOCUMENTS,REGULATES
+196,"Authority alters exemption conditions",Authority,0,9,AUTHORITIES,exemption conditions,20,34,DOCUMENTS,REQUIRED
+197,"Equivalent solutions accepted by standards",Equivalent solutions,0,18,SPECIFICATION,standards,29,37,SPECIFICATION,MONITORS
+198,"Oil pollution control requires monitoring",Oil pollution control,0,20,PROCEDURES,monitoring,31,40,PROCEDURES,REQUIRED
+199,"Survey requirements specify inspection details",Survey requirements,0,16,SPECIFICATION,inspection details,27,41,SPECIFICATION,REQUIRED
+200,"Certificate maintenance documents compliance",Certificate maintenance,0,20,PROCEDURES,compliance,31,40,DOCUMENTS,HAVE
+201,"MARPOL training includes emergency drills",MARPOL training,0,12,PROCEDURES,emergency drills,23,36,ACTIVITIES,INVOLVE_IN
+202,"Authority coordinates with IMO",Authority,0,9,AUTHORITIES,IMO,23,26,AUTHORITIES,RELATED_TO
+203,"Waste audits ensure regulatory compliance",Waste audits,0,10,PROCEDURES,regulatory compliance,21,38,DOCUMENTS,MONITORS
+204,"Port operators maintain safety data sheets",Port operators,0,12,SUBJECT REGULATED,safety data sheets,23,38,DOCUMENTS,HAVE
+205,"Authority enforces waste segregation rules",Authority,0,9,AUTHORITIES,waste segregation rules,20,37,REQUIREMENTS,IMPLEMENT
+206,"Terminal operators schedule facility maintenance",Terminal operators,0,15,SUBJECT REGULATED,facility maintenance,23,40,PROCEDURES,CARRY_OUT
+207,"Bilge water analysis detects contaminants",Bilge water analysis,0,18,PROCEDURES,contaminants,29,41,POLLUTANT,GENERATES
+208,"MARPOL compliance requires documentation",MARPOL compliance,0,14,DOCUMENTS,documentation,25,36,DOCUMENTS,REQUIRED
+209,"Authority reviews facility performance",Authority,0,9,AUTHORITIES,facility performance,20,35,DOCUMENTS,MONITORS
+210,"Waste transportation follows strict routes",Waste transportation,0,17,ACTIVITIES,strict routes,28,38,SPECIFICATION,FOLLOW
+211,"A shipper must classify doubtful dangerous goods via approved authority",shipper,2,9,SUBJECT_REGULATED,dangerous goods,34,48,POLLUTANT,REQUIRED
+212,"IMDG Code dictates packaging for irradiated nuclear fuel",IMDG Code,0,8,DOCUMENTS,irradiated nuclear fuel,31,50,POLLUTANT,REGULATES
+213,"Masters must notify authorities of packaged goods loss",Masters,0,7,SUBJECT_REGULATED,packaged goods loss,26,42,ACTIVITIES,REPORT
+214,"Bulk cargoes require IBC Code compliance",Bulk cargoes,0,12,POLLUTANT,IBC Code,26,34,DOCUMENTS,COMPLY_WITH
+215,"Authority inspects explosive stowage pre-loading",Authority,0,9,AUTHORITIES,explosive stowage,24,38,SPECIFICATION,MONITORS
+216,"Employees must report safety violations",Employees,0,9,SUBJECT_REGULATED,safety violations,22,37,PENALTIES,REPORT
+217,"Gas Carrier Code applies to liquefied gases",Gas Carrier Code,0,14,DOCUMENTS,liquefied gases,26,40,POLLUTANT,APPLY_TO
+218,"Shipper provides UN numbers for dangerous substances",Shipper,0,7,SUBJECT_REGULATED,UN numbers,18,26,SPECIFICATION,PROVIDE
+219,"Flammable liquids need flash point documentation",Flammable liquids,0,15,POLLUTANT,flash point documentation,21,40,DOCUMENTS,REQUIRED
+220,"BCH Code governs chemical carrier construction",BCH Code,0,8,DOCUMENTS,chemical carrier construction,20,40,SPECIFICATION,REGULATES
+221,"Masters verify dangerous goods declarations",Masters,0,7,SUBJECT_REGULATED,dangerous goods declarations,21,41,DOCUMENTS,VERIFY
+222,"Authority issues document of compliance",Authority,0,9,AUTHORITIES,document of compliance,20,37,DOCUMENTS,GENERATES
+223,"Packaging must withstand three-month immersion",Packaging,0,9,SPECIFICATION,three-month immersion,23,39,SPECIFICATION,REQUIRED
+224,"Bulk cargo documentation includes stowage plans",Bulk cargo documentation,0,20,DOCUMENTS,stowage plans,32,44,SPECIFICATION,HAVE
+225,"Surveyors inspect dangerous goods loading",Surveyors,0,9,AUTHORITIES,dangerous goods loading,23,40,ACTIVITIES,MONITORS
+226,"Radioactive materials require special closure",Radioactive materials,0,18,POLLUTANT,special closure,28,40,SPECIFICATION,REQUIRED
+227,"Port authorities receive waste notification forms",Port authorities,0,14,AUTHORITIES,waste notification forms,28,46,DOCUMENTS,GENERATES
+228,"MARPOL certificates must accompany shipments",MARPOL certificates,0,16,DOCUMENTS,shipments,27,36,ACTIVITIES,APPLY_TO
+229,"Toxic substances demand segregation",Toxic substances,0,15,POLLUTANT,segregation,25,35,SPECIFICATION,REQUIRED
+230,"Authority compiles waste quantity reports",Authority,0,9,AUTHORITIES,waste quantity reports,20,36,DOCUMENTS,GENERATES
+231,"Cargo residues fall under MARPOL Annex-V",Cargo residues,0,13,POLLUTANT,MARPOL Annex-V,27,40,DOCUMENTS,REGULATES
+232,"Sewage discharge violates environmental standards",Sewage discharge,0,14,POLLUTANT,environmental standards,28,46,DOCUMENTS,RESTRICT
+233,"Terminal operators display fee schedules",Terminal operators,0,15,SUBJECT_REGULATED,fee schedules,23,34,DOCUMENTS,HAVE
+234,"Intermediate flashpoint group includes liquids with flashpoint -18°C to 23°C",Intermediate flashpoint group,0,25,SPECIFICATION,liquids,46,52,POLLUTANT,INCLUDE
+235,"High flashpoint group covers liquids with flashpoint 23°C to 61°C",High flashpoint group,0,19,SPECIFICATION,liquids,37,43,POLLUTANT,COVER
+236,"Flammable solids classified under Class 4.1",Flammable solids,0,14,POLLUTANT,Class 4.1,28,36,CLASSIFICATION,REGULATES
+237,"Substances liable to spontaneous combustion fall under Class 4.2",Substances liable to spontaneous combustion,0,34,POLLUTANT,Class 4.2,48,56,CLASSIFICATION,REGULATES
+238,"Water-reactive substances emitting flammable gases categorized under Class 4.3",Water-reactive substances,0,22,POLLUTANT,Class 4.3,59,67,CLASSIFICATION,REGULATES
+239,"Oxidising substances regulated under Class 5.1",Oxidising substances,0,19,POLLUTANT,Class 5.1,33,41,CLASSIFICATION,REGULATES
+240,"Organic peroxides governed by Class 5.2",Organic peroxides,0,15,POLLUTANT,Class 5.2,29,37,CLASSIFICATION,REGULATES
+241,"Toxic substances controlled under Class 6.1",Toxic substances,0,15,POLLUTANT,Class 6.1,31,39,CLASSIFICATION,REGULATES
+242,"Infectious substances monitored under Class 6.2",Infectious substances,0,19,POLLUTANT,Class 6.2,33,41,CLASSIFICATION,MONITORS
+243,"Radioactive materials regulated by Class 7",Radioactive materials,0,18,POLLUTANT,Class 7,32,39,CLASSIFICATION,REGULATES
+244,"Corrosives governed by Class 8",Corrosives,0,10,POLLUTANT,Class 8,24,31,CLASSIFICATION,REGULATES
+245,"Miscellaneous dangerous substances fall under Class 9",Miscellaneous dangerous substances,0,29,POLLUTANT,Class 9,43,50,CLASSIFICATION,REGULATES
+246,"Authority serves notice for oil pollution violations",Authority,0,9,AUTHORITIES,oil pollution violations,23,42,PENALTIES,MANAGES
+247,"Shipboard oil pollution emergency plans required",Shipboard oil pollution emergency plans,0,32,DOCUMENTS,ships,41,46,SYSTEM,REQUIRED
+248,"Power to inspect granted for pollution prevention",Power to inspect,0,13,AUTHORITIES,pollution prevention,23,41,PROCEDURES,IMPLEMENT
+249,"Power to deny entry applies to polluting ships",Power to deny entry,0,17,AUTHORITIES,polluting ships,28,40,SYSTEM,APPLY_TO
+250,"Detention powers cover environmental violations",Detention powers,0,15,AUTHORITIES,environmental violations,27,46,PENALTIES,MANAGES
+251,"Suspension of proceedings possible at flag state request",Suspension of proceedings,0,20,PROCEDURES,flag state request,33,49,REQUIREMENTS,REQUIRED
+252,"Compounding of offences handled by Authority",Compounding of offences,0,19,PROCEDURES,Authority,32,41,AUTHORITIES,MONITORS
+253,"Annex I regulates oil pollution prevention",Annex I,0,7,DOCUMENTS,oil pollution prevention,18,36,PROCEDURES,REGULATES
+254,"IOPP Certificate establishes compliance",IOPP Certificate,0,13,DOCUMENTS,compliance,27,36,DOCUMENTS,EXTABLISHED
+255,"Breadth measurement follows specific guidelines",Breadth measurement,0,16,SPECIFICATION,guidelines,31,40,DOCUMENTS,FOLLOW
+256,"Central tank design prevents oil spills",Central tank,0,12,SPECIFICATION,oil spills,28,37,POLLUTANT,RESTRICT
+257,"Release of harmful substances restricted",Release of harmful substances,0,24,POLLUTANT,restricted,38,47,PENALTIES,RESTRICT
+258,"Dumping regulations exclude certain activities",Dumping regulations,0,16,DOCUMENTS,certain activities,27,41,ACTIVITIES,RESTRICT
+259,"Offshore processing releases governed separately",Offshore processing releases,0,23,POLLUTANT,governed,34,42,DOCUMENTS,REGULATES
+260,"Registrar of Ships grants exemptions",Registrar of Ships,0,17,AUTHORITIES,exemptions,28,38,DOCUMENTS,GENERATES
+261,"Equivalent standards accepted by Authority",Equivalent standards,0,17,SPECIFICATION,Authority,30,39,AUTHORITIES,MONITORS
+262,"Oil Record Book maintains discharge data",Oil Record Book,0,14,DOCUMENTS,discharge data,25,37,DOCUMENTS,HAVE
+263,"Surveys verify compliance status",Surveys,0,7,PROCEDURES,compliance status,18,31,DOCUMENTS,MONITORS
+264,"Certificates document regulatory adherence",Certificates,0,11,DOCUMENTS,regulatory adherence,22,39,DOCUMENTS,HAVE
+265,"Offshore installations follow special requirements",Offshore installations,0,19,SYSTEM,special requirements,30,47,SPECIFICATION,FOLLOW
+266,"Emergency plans address pollution incidents",Emergency plans,0,14,PROCEDURES,pollution incidents,25,41,ACTIVITIES,INVOLVE_IN
+267,"Inspection powers ensure regulatory compliance",Inspection powers,0,16,AUTHORITIES,regulatory compliance,27,46,DOCUMENTS,MONITORS
+268,"Entry denial prevents environmental damage",Entry denial,0,12,AUTHORITIES,environmental damage,23,40,POLLUTANT,RESTRICT
+269,"Detention authority manages violations",Detention authority,0,17,AUTHORITIES,violations,28,38,PENALTIES,MANAGES
+270,"Flag state requests influence proceedings",Flag state requests,0,17,REQUIREMENTS,proceedings,28,38,PROCEDURES,RELATED_TO
+271,"Offence compounding reduces legal procedures",Offence compounding,0,17,PROCEDURES,legal procedures,28,41,PROCEDURES,RESTRICT
+272,"Anniversary date marks certificate renewal",Anniversary date,0,15,SPECIFICATION,certificate renewal,26,40,DOCUMENTS,EXTABLISHED
+273,"Amidships measurement determines stability",Amidships measurement,0,18,SPECIFICATION,stability,29,37,SPECIFICATION,REQUIRED
+274,"Tank configuration affects oil containment",Tank configuration,0,17,SPECIFICATION,oil containment,28,40,SPECIFICATION,RELATED_TO
+275,"Harmful substance release triggers penalties",Harmful substance release,0,23,POLLUTANT,penalties,34,43,PENALTIES,GENERATES
+276,"Dumping convention excludes certain discharges",Dumping convention,0,15,DOCUMENTS,certain discharges,26,40,POLLUTANT,RESTRICT
+277,"Offshore exploration releases regulated differently",Offshore exploration releases,0,25,POLLUTANT,regulated,36,44,DOCUMENTS,REGULATES
+278,"Authority specifies exemption terms",Authority,0,9,AUTHORITIES,exemption terms,20,32,DOCUMENTS,REQUIRED
+279,"Equivalent alternatives accepted by regulations",Equivalent alternatives,0,19,SPECIFICATION,regulations,30,41,DOCUMENTS,MONITORS
+280,"Oil pollution prevention requires documentation",Oil pollution prevention,0,22,PROCEDURES,documentation,33,45,DOCUMENTS,REQUIRED
+281,"Survey procedures verify system integrity",Survey procedures,0,15,PROCEDURES,system integrity,26,39,SPECIFICATION,MONITORS
+282,"Certificate issuance confirms compliance",Certificate issuance,0,18,PROCEDURES,compliance,29,38,DOCUMENTS,EXTABLISHED
+283,"Installation requirements specify safety measures",Installation requirements,0,21,SPECIFICATION,safety measures,32,45,SPECIFICATION,REQUIRED
+284,"Emergency response addresses oil spills",Emergency response,0,16,PROCEDURES,oil spills,27,36,POLLUTANT,INVOLVE_IN
+285,"Inspection protocols ensure safety standards",Inspection protocols,0,18,PROCEDURES,safety standards,29,42,SPECIFICATION,REQUIRED
+286,"Entry restrictions prevent environmental harm",Entry restrictions,0,16,AUTHORITIES,environmental harm,27,43,POLLUTANT,RESTRICT
+287,"Detention procedures manage non-compliance",Detention procedures,0,18,PROCEDURES,non-compliance,29,41,PENALTIES,MANAGES
+288,"Flag state communication influences decisions",Flag state communication,0,20,REQUIREMENTS,decisions,31,40,PROCEDURES,RELATED_TO
+289,"Offence resolution reduces legal actions",Offence resolution,0,17,PROCEDURES,legal actions,28,39,PROCEDURES,RESTRICT
+290,"Anniversary renewal maintains certification",Anniversary renewal,0,18,PROCEDURES,certification,29,40,DOCUMENTS,HAVE
+291,"Amidships stability ensures safe operation",Amidships stability,0,17,SPECIFICATION,safe operation,28,40,ACTIVITIES,REQUIRED
+292,"Tank arrangement optimizes containment",Tank arrangement,0,15,SPECIFICATION,containment,26,36,SPECIFICATION,RELATED_TO
+293,"Harmful discharge triggers regulatory action",Harmful discharge,0,15,POLLUTANT,regulatory action,26,40,ACTIVITIES,GENERATES
+294,"Dumping exclusion covers specific activities",Dumping exclusion,0,15,DOCUMENTS,specific activities,26,40,ACTIVITIES,COVER
+295,"Offshore release regulation differs",Offshore release,0,13,POLLUTANT,regulation,24,33,DOCUMENTS,REGULATES
+296,"Authority alters exemption conditions",Authority,0,9,AUTHORITIES,exemption conditions,20,34,DOCUMENTS,REQUIRED
+297,"Equivalent solutions accepted by standards",Equivalent solutions,0,18,SPECIFICATION,standards,29,37,SPECIFICATION,MONITORS
+298,"Oil pollution control requires monitoring",Oil pollution control,0,20,PROCEDURES,monitoring,31,40,PROCEDURES,REQUIRED
+299,"Survey requirements specify inspection details",Survey requirements,0,16,SPECIFICATION,inspection details,27,41,SPECIFICATION,REQUIRED
+300,"Certificate maintenance documents compliance",Certificate maintenance,0,20,PROCEDURES,compliance,31,40,DOCUMENTS,HAVE
+301,"Ballast water management reduces environmental impact",Ballast water management,0,21,PROCEDURES,environmental impact,34,51,POLLUTANT,RESTRICT
+302,"Ballast discharge violates MARPOL if untreated",Ballast discharge,0,14,ACTIVITIES,MARPOL,33,39,DOCUMENTS,REGULATES
+303,"Ballast treatment systems remove invasive species",Ballast treatment systems,0,21,EQUIPMENT,invasive species,32,46,POLLUTANT,GENERATES
+304,"Ballast water sampling ensures compliance",Ballast water sampling,0,20,PROCEDURES,compliance,31,41,DOCUMENTS,REQUIRED
+305,"Ballast tank maintenance prevents corrosion",Ballast tank maintenance,0,21,PROCEDURES,corrosion,32,41,POLLUTANT,RESTRICT
+306,"Ballast operations follow strict protocols",Ballast operations,0,15,ACTIVITIES,strict protocols,26,39,SPECIFICATION,FOLLOW
+307,"Ballast system design optimizes space",Ballast system design,0,19,SPECIFICATION,space,30,35,SPECIFICATION,RELATED_TO
+308,"Ballast monitoring systems track water quality",Ballast monitoring systems,0,20,EQUIPMENT,water quality,31,42,SPECIFICATION,MONITORS
+309,"Ballast discharge reports document quantities",Ballast discharge reports,0,20,DOCUMENTS,quantities,31,40,SPECIFICATION,HAVE
+310,"Ballast water regulations protect ecosystems",Ballast water regulations,0,21,DOCUMENTS,ecosystems,32,42,SPECIFICATION,APPLY_TO
+311,"Ballast tank coatings resist corrosion",Ballast tank coatings,0,19,SPECIFICATION,corrosion,30,39,POLLUTANT,RESTRICT
+312,"Ballast system inspections occur annually",Ballast system inspections,0,23,PROCEDURES,annually,34,41,SPECIFICATION,FOLLOW
+313,"Ballast water treatment uses UV systems",Ballast water treatment,0,20,PROCEDURES,UV systems,27,35,EQUIPMENT,IMPLEMENT
+314,"Ballast discharge limits safeguard marine life",Ballast discharge limits,0,19,SPECIFICATION,marine life,30,40,SPECIFICATION,APPLY_TO
+315,"Ballast management plans require approval",Ballast management plans,0,20,DOCUMENTS,approval,31,38,REQUIREMENTS,REQUIRED
+316,"Ballast system upgrades enhance efficiency",Ballast system upgrades,0,21,PROCEDURES,efficiency,32,41,SPECIFICATION,RELATED_TO
+317,"Ballast tank cleaning prevents sediment buildup",Ballast tank cleaning,0,19,PROCEDURES,sediment buildup,30,45,POLLUTANT,RESTRICT
+318,"Ballast water filtration removes particles",Ballast water filtration,0,20,EQUIPMENT,particles,31,40,POLLUTANT,GENERATES
+319,"Ballast system automation improves accuracy",Ballast system automation,0,22,PROCEDURES,accuracy,33,41,SPECIFICATION,RELATED_TO
+320,"Ballast discharge monitoring detects anomalies",Ballast discharge monitoring,0,23,PROCEDURES,anomalies,34,43,PENALTIES,MONITORS
+321,"Ballast water regulations align with international standards",Ballast water regulations,0,21,DOCUMENTS,international standards,32,50,DOCUMENTS,RELATED_TO
+322,"Ballast tank inspections ensure structural integrity",Ballast tank inspections,0,20,PROCEDURES,structural integrity,31,48,SPECIFICATION,REQUIRED
+323,"Ballast system maintenance follows schedules",Ballast system maintenance,0,22,PROCEDURES,schedules,33,42,SPECIFICATION,FOLLOW
+324,"Ballast water testing verifies compliance",Ballast water testing,0,20,PROCEDURES,compliance,31,41,DOCUMENTS,REQUIRED
+325,"Ballast discharge restrictions protect coastal areas",Ballast discharge restrictions,0,23,SPECIFICATION,coastal areas,34,46,SPECIFICATION,APPLY_TO
+326,"Ballast management training covers procedures",Ballast management training,0,22,PROCEDURES,procedures,33,43,PROCEDURES,RELATED_TO
+327,"Ballast system design considers ship dimensions",Ballast system design,0,19,SPECIFICATION,ship dimensions,30,44,SPECIFICATION,RELATED_TO
+328,"Ballast water regulations require documentation",Ballast water regulations,0,21,DOCUMENTS,documentation,32,43,DOCUMENTS,REQUIRED
+329,"Ballast tank maintenance prevents operational failures",Ballast tank maintenance,0,21,PROCEDURES,operational failures,32,48,PENALTIES,RESTRICT
+330,"Ballast discharge controls minimize pollution",Ballast discharge controls,0,21,SPECIFICATION,pollution,32,41,POLLUTANT,RESTRICT
+331,"Ballast system optimization reduces costs",Ballast system optimization,0,23,PROCEDURES,costs,34,39,SPECIFICATION,RELATED_TO
+332,"Ballast water regulations enforce environmental protection",Ballast water regulations,0,21,DOCUMENTS,environmental protection,32,50,ACTIVITIES,IMPLEMENT
+333,"Ballast tank inspections detect structural issues",Ballast tank inspections,0,20,PROCEDURES,structural issues,31,45,PENALTIES,MONITORS
+334,"Ballast system upgrades comply with new standards",Ballast system upgrades,0,21,PROCEDURES,new standards,32,44,DOCUMENTS,COMPLY_WITH
+335,"Ballast water management involves multiple stakeholders",Ballast water management,0,21,PROCEDURES,stakeholders,32,43,SUBJECT REGULATED,INVOLVE_IN
+336,"Ballast discharge permits regulate operations",Ballast discharge permits,0,21,DOCUMENTS,operations,32,42,ACTIVITIES,REGULATES
+337,"Ballast system automation requires training",Ballast system automation,0,22,PROCEDURES,training,33,41,PROCEDURES,REQUIRED
+338,"Ballast water treatment follows strict guidelines",Ballast water treatment,0,20,PROCEDURES,strict guidelines,31,45,DOCUMENTS,FOLLOW
+339,"Ballast tank design maximizes efficiency",Ballast tank design,0,17,SPECIFICATION,efficiency,28,37,SPECIFICATION,RELATED_TO
+340,"Ballast system maintenance ensures reliability",Ballast system maintenance,0,22,PROCEDURES,reliability,33,43,SPECIFICATION,REQUIRED
+341,"MARPOL Annex-I prohibits unauthorized overboard discharge connections",MARPOL Annex-I,0,11,DOCUMENTS,overboard discharge connections,32,53,SPECIFICATION,RESTRICT
+342,"Sludge tank discharge systems must comply with Regulation 12",sludge tank discharge systems,0,24,EQUIPMENT,Regulation 12,38,50,DOCUMENTS,COMPLY_WITH
+343,"Authorized Officers inspect sludge tank configurations",Authorized Officers,0,17,AUTHORITIES,sludge tank configurations,28,48,SPECIFICATION,MONITORS
+344,"Discharge connections require approval from the Authority",discharge connections,0,17,SPECIFICATION,Authority,37,45,AUTHORITIES,REQUIRED
+345,"Sludge accumulation triggers mandatory cleaning procedures",sludge accumulation,0,16,POLLUTANT,cleaning procedures,30,46,PROCEDURES,REQUIRED
+346,"Tank design prevents unauthorized sludge discharge",tank design,0,10,SPECIFICATION,sludge discharge,29,43,POLLUTANT,RESTRICT
+347,"MARPOL certificates verify sludge system compliance",MARPOL certificates,0,14,DOCUMENTS,sludge system compliance,25,43,DOCUMENTS,REQUIRED
+348,"Sludge tank maintenance follows strict schedules",sludge tank maintenance,0,20,PROCEDURES,strict schedules,31,44,SPECIFICATION,FOLLOW
+349,"Authority audits sludge management practices",Authority,0,9,AUTHORITIES,sludge management practices,20,40,PROCEDURES,MONITORS
+350,"Sludge discharge reports document quantities",sludge discharge reports,0,20,DOCUMENTS,quantities,31,40,SPECIFICATION,HAVE
+351,"Ballast systems isolate sludge tanks",ballast systems,0,13,EQUIPMENT,sludge tanks,24,34,EQUIPMENT,RELATED_TO
+352,"Sludge retention tanks meet MARPOL standards",sludge retention tanks,0,19,EQUIPMENT,MARPOL standards,29,41,DOCUMENTS,COMPLY_WITH
+353,"Overboard piping restrictions apply to all tankers",overboard piping restrictions,0,23,SPECIFICATION,tankers,34,41,SYSTEM,APPLY_TO
+354,"Sludge processing requires specialized equipment",sludge processing,0,15,PROCEDURES,specialized equipment,26,42,EQUIPMENT,REQUIRED
+355,"MARPOL Annex-VI regulates sludge incineration",MARPOL Annex-VI,0,13,DOCUMENTS,sludge incineration,24,39,ACTIVITIES,REGULATES
+356,"Sludge sampling ensures regulatory compliance",sludge sampling,0,14,PROCEDURES,regulatory compliance,25,42,DOCUMENTS,REQUIRED
+357,"Tank coatings resist sludge corrosion",tank coatings,0,12,SPECIFICATION,sludge corrosion,23,36,POLLUTANT,RESTRICT
+358,"Sludge disposal follows controlled protocols",sludge disposal,0,14,DISPOSAL,controlled protocols,25,41,PROCEDURES,FOLLOW
+359,"Authority mandates sludge tank inspections",Authority,0,9,AUTHORITIES,sludge tank inspections,20,39,PROCEDURES,IMPLEMENT
+360,"Sludge accumulation limits operational capacity",sludge accumulation,0,16,POLLUTANT,operational capacity,27,42,SPECIFICATION,RESTRICT
+361,"MARPOL training covers sludge management",MARPOL training,0,12,PROCEDURES,sludge management,23,37,PROCEDURES,RELATED_TO
+362,"Sludge transfer systems prevent contamination",sludge transfer systems,0,19,EQUIPMENT,contamination,30,43,POLLUTANT,RESTRICT
+363,"Tank design specifications include sludge capacity",tank design specifications,0,22,SPECIFICATION,sludge capacity,33,46,SPECIFICATION,RELATED_TO
+364,"Sludge monitoring systems track waste levels",sludge monitoring systems,0,20,EQUIPMENT,waste levels,31,42,SPECIFICATION,MONITORS
+365,"Authority enforces sludge discharge bans",Authority,0,9,AUTHORITIES,sludge discharge bans,20,36,PENALTIES,IMPLEMENT
+366,"Sludge containment systems meet international standards",sludge containment systems,0,21,EQUIPMENT,international standards,32,50,DOCUMENTS,COMPLY_WITH
+367,"MARPOL guidelines dictate sludge handling",MARPOL guidelines,0,13,DOCUMENTS,sludge handling,24,37,PROCEDURES,REGULATES
+368,"Sludge processing facilities require permits",sludge processing facilities,0,22,EQUIPMENT,permits,33,39,DOCUMENTS,REQUIRED
+369,"Tank maintenance prevents sludge buildup",tank maintenance,0,14,PROCEDURES,sludge buildup,25,37,POLLUTANT,RESTRICT
+370,"Sludge discharge violations incur penalties",sludge discharge violations,0,23,PENALTIES,penalties,34,43,PENALTIES,GENERATES
+371,"MARPOL certificates require sludge system approval",MARPOL certificates,0,14,DOCUMENTS,sludge system approval,25,42,DOCUMENTS,REQUIRED
+372,"Sludge tank inspections occur quarterly",sludge tank inspections,0,20,PROCEDURES,quarterly,31,39,SPECIFICATION,FOLLOW
+373,"Authority reviews sludge management plans",Authority,0,9,AUTHORITIES,sludge management plans,20,39,DOCUMENTS,MONITORS
+374,"Sludge transfer protocols ensure safety",sludge transfer protocols,0,20,PROCEDURES,safety,31,37,SPECIFICATION,REQUIRED
+375,"Tank design considers sludge viscosity",tank design,0,10,SPECIFICATION,sludge viscosity,21,34,SPECIFICATION,RELATED_TO
+376,"Sludge processing removes hazardous substances",sludge processing,0,15,PROCEDURES,hazardous substances,26,42,POLLUTANT,GENERATES
+377,"MARPOL training includes sludge regulations",MARPOL training,0,12,PROCEDURES,sludge regulations,23,38,DOCUMENTS,INVOLVE_IN
+378,"Sludge containment prevents environmental harm",sludge containment,0,16,SPECIFICATION,environmental harm,27,43,POLLUTANT,RESTRICT
+379,"Authority issues sludge disposal guidelines",Authority,0,9,AUTHORITIES,sludge disposal guidelines,20,39,DOCUMENTS,GENERATES
+380,"Sludge accumulation affects ship stability",sludge accumulation,0,16,POLLUTANT,ship stability,27,39,SPECIFICATION,RELATED_TO
+381,"MARPOL compliance requires sludge documentation",MARPOL compliance,0,14,DOCUMENTS,sludge documentation,25,40,DOCUMENTS,REQUIRED
+382,"Sludge monitoring detects anomalies",sludge monitoring,0,14,PROCEDURES,anomalies,25,34,PENALTIES,MONITORS
+383,"Tank maintenance follows manufacturer specifications",tank maintenance,0,14,PROCEDURES,manufacturer specifications,25,45,SPECIFICATION,FOLLOW
+384,"Sludge transfer requires operational permits",sludge transfer,0,14,ACTIVITIES,operational permits,25,41,DOCUMENTS,REQUIRED
+385,"MARPOL Annex-IV regulates sludge treatment",MARPOL Annex-IV,0,13,DOCUMENTS,sludge treatment,24,37,PROCEDURES,REGULATES
+386,"Sludge processing systems optimize efficiency",sludge processing systems,0,20,EQUIPMENT,efficiency,31,40,SPECIFICATION,RELATED_TO
+387,"Authority audits sludge discharge records",Authority,0,9,AUTHORITIES,sludge discharge records,20,39,DOCUMENTS,MONITORS
+388,"Sludge containment systems undergo annual testing",sludge containment systems,0,21,EQUIPMENT,annual testing,32,44,PROCEDURES,REQUIRED
+389,"MARPOL guidelines standardize sludge handling",MARPOL guidelines,0,13,DOCUMENTS,sludge handling,24,37,PROCEDURES,REGULATES
+390,"Sludge disposal facilities process waste",sludge disposal facilities,0,21,EQUIPMENT,waste,32,37,POLLUTANT,PROCESS
+391,"Tank inspections verify sludge levels",tank inspections,0,14,PROCEDURES,sludge levels,25,37,SPECIFICATION,MONITORS
+392,"Sludge management plans require Authority approval",sludge management plans,0,20,DOCUMENTS,Authority approval,31,46,DOCUMENTS,REQUIRED
+393,"MARPOL training addresses sludge regulations",MARPOL training,0,12,PROCEDURES,sludge regulations,23,38,DOCUMENTS,INVOLVE_IN
+394,"Sludge containment systems prevent leaks",sludge containment systems,0,21,EQUIPMENT,leaks,32,37,POLLUTANT,RESTRICT
+395,"Authority enforces sludge retention policies",Authority,0,9,AUTHORITIES,sludge retention policies,20,39,PROCEDURES,IMPLEMENT
+396,"Sludge processing reduces waste volume",sludge processing,0,15,PROCEDURES,waste volume,26,36,SPECIFICATION,RELATED_TO
+397,"MARPOL compliance mandates sludge documentation",MARPOL compliance,0,14,DOCUMENTS,sludge documentation,25,40,DOCUMENTS,REQUIRED
+398,"Sludge monitoring systems enhance accuracy",sludge monitoring systems,0,20,EQUIPMENT,accuracy,31,39,SPECIFICATION,RELATED_TO
+399,"Tank design maximizes sludge capacity",tank design,0,10,SPECIFICATION,sludge capacity,21,34,SPECIFICATION,RELATED_TO
+400,"Sludge transfer operations follow protocols",sludge transfer operations,0,21,ACTIVITIES,protocols,32,41,PROCEDURES,FOLLOW
+401,"MARPOL Annex-V prohibits sludge dumping",MARPOL Annex-V,0,12,DOCUMENTS,sludge dumping,23,35,DISPOSAL,RESTRICT
+402,"Sludge containment systems resist corrosion",sludge containment systems,0,21,EQUIPMENT,corrosion,32,41,POLLUTANT,RESTRICT
+403,"Authority issues sludge handling permits",Authority,0,9,AUTHORITIES,sludge handling permits,20,39,DOCUMENTS,GENERATES
+404,"Sludge accumulation triggers system alerts",sludge accumulation,0,16,POLLUTANT,system alerts,27,38,ACTIVITIES,GENERATES
+405,"MARPOL training covers sludge processing",MARPOL training,0,12,PROCEDURES,sludge processing,23,37,PROCEDURES,RELATED_TO
+406,"Sludge disposal aligns with environmental goals",sludge disposal,0,14,DISPOSAL,environmental goals,25,42,SPECIFICATION,APPLY_TO
+407,"Tank maintenance prevents system failures",tank maintenance,0,14,PROCEDURES,system failures,25,38,PENALTIES,RESTRICT
+408,"Sludge management optimizes waste processing",sludge management,0,15,PROCEDURES,waste processing,26,39,PROCEDURES,RELATED_TO
+409,"Authority supervises sludge containment measures",Authority,0,9,AUTHORITIES,sludge containment measures,20,39,SPECIFICATION,MONITORS
+410,"Sludge processing systems require regular maintenance",sludge processing systems,0,20,EQUIPMENT,regular maintenance,31,47,PROCEDURES,REQUIRED
+411,"MARPOL guidelines establish sludge handling standards",MARPOL guidelines,0,13,DOCUMENTS,sludge handling standards,24,41,SPECIFICATION,EXTABLISHED
+412,"Sludge disposal facilities comply with environmental laws",sludge disposal facilities,0,21,EQUIPMENT,environmental laws,32,49,DOCUMENTS,COMPLY_WITH
+413,"Tank inspections detect sludge-related issues",tank inspections,0,14,PROCEDURES,sludge-related issues,25,41,PENALTIES,MONITORS
+414,"Sludge management plans address emergency situations",sludge management plans,0,20,DOCUMENTS,emergency situations,31,48,ACTIVITIES,INVOLVE_IN
+415,"MARPOL training emphasizes sludge safety protocols",MARPOL training,0,12,PROCEDURES,sludge safety protocols,23,40,SPECIFICATION,RELATED_TO
+416,"Sludge containment systems ensure environmental protection",sludge containment systems,0,21,EQUIPMENT,environmental protection,32,50,ACTIVITIES,IMPLEMENT
+417,"Authority conducts sludge management audits",Authority,0,9,AUTHORITIES,sludge management audits,20,39,PROCEDURES,MONITORS
+418,"Sludge accumulation impacts operational efficiency",sludge accumulation,0,16,POLLUTANT,operational efficiency,27,44,SPECIFICATION,RELATED_TO
+419,"MARPOL compliance demands detailed sludge records",MARPOL compliance,0,14,DOCUMENTS,detailed sludge records,25,42,DOCUMENTS,REQUIRED
+420,"Sludge monitoring systems improve data accuracy",sludge monitoring systems,0,20,EQUIPMENT,data accuracy,31,42,SPECIFICATION,RELATED_TO
+421,"Tank design incorporates sludge removal mechanisms",tank design,0,10,SPECIFICATION,sludge removal mechanisms,21,39,SPECIFICATION,RELATED_TO
+422,"Sludge transfer operations require safety measures",sludge transfer operations,0,21,ACTIVITIES,safety measures,32,45,SPECIFICATION,REQUIRED
+423,"MARPOL Annex-III regulates sludge storage requirements",MARPOL Annex-III,0,13,DOCUMENTS,sludge storage requirements,24,42,SPECIFICATION,REGULATES
+424,"Sludge processing systems utilize advanced technology",sludge processing systems,0,20,EQUIPMENT,advanced technology,31,47,SPECIFICATION,UTILIZE
+425,"Authority verifies sludge discharge documentation",Authority,0,9,AUTHORITIES,sludge discharge documentation,20,39,DOCUMENTS,MONITORS
+426,"Sludge containment systems undergo rigorous testing",sludge containment systems,0,21,EQUIPMENT,rigorous testing,32,45,PROCEDURES,CARRY_OUT
+427,"MARPOL guidelines promote sustainable sludge management",MARPOL guidelines,0,13,DOCUMENTS,sustainable sludge management,24,44,PROCEDURES,IMPLEMENT
+428,"Sludge disposal facilities implement pollution control",sludge disposal facilities,0,21,EQUIPMENT,pollution control,32,45,SPECIFICATION,IMPLEMENT
+429,"Tank inspections assess sludge accumulation rates",tank inspections,0,14,PROCEDURES,sludge accumulation rates,25,42,SPECIFICATION,MONITORS
+430,"Sludge management plans incorporate contingency protocols",sludge management plans,0,20,DOCUMENTS,contingency protocols,31,48,SPECIFICATION,INCLUDE
+431,"MARPOL training focuses on sludge handling techniques",MARPOL training,0,12,PROCEDURES,sludge handling techniques,23,40,SPECIFICATION,RELATED_TO
+432,"Sludge containment systems prevent environmental contamination",sludge containment systems,0,21,EQUIPMENT,environmental contamination,32,51,POLLUTANT,RESTRICT
+433,"Authority monitors sludge retention practices",Authority,0,9,AUTHORITIES,sludge retention practices,20,39,PROCEDURES,MONITORS
+434,"Sludge processing reduces environmental impact",sludge processing,0,15,PROCEDURES,environmental impact,26,43,POLLUTANT,RESTRICT
+435,"MARPOL compliance mandates comprehensive sludge reporting",MARPOL compliance,0,14,DOCUMENTS,comprehensive sludge reporting,25,46,DOCUMENTS,REQUIRED
+436,"Sludge monitoring systems enhance operational visibility",sludge monitoring systems,0,20,EQUIPMENT,operational visibility,31,48,SPECIFICATION,RELATED_TO
+437,"Tank design considers sludge removal efficiency",tank design,0,10,SPECIFICATION,sludge removal efficiency,21,39,SPECIFICATION,RELATED_TO
+438,"Sludge transfer operations adhere to safety standards",sludge transfer operations,0,21,ACTIVITIES,safety standards,32,45,SPECIFICATION,COMPLY_WITH
+439,"MARPOL Annex-II governs sludge treatment processes",MARPOL Annex-II,0,13,DOCUMENTS,sludge treatment processes,24,42,PROCEDURES,REGULATES
+440,"Sludge processing systems maximize resource recovery",sludge processing systems,0,20,EQUIPMENT,resource recovery,31,45,SPECIFICATION,RELATED_TO
+441,"(5) Instead of complying with the requirements of sub regulation (3) or (4) of this regulation , an oil tanker referred to in sub regulation (2) may conform to other methods of design and construction, provided that such methods - (a) ensure at least the same level of protection against oil pollution in the event of collision or stranding and (b) have the approval of the Registrar of Ships based on guidelines developed by the Organisation.",oil tanker,60,70,SYSTEM,methods of design and construction,97,120,SPECIFICATION,APPLY_TO
+442,"(2) The plan shall be in accordance with the guidelines for the development of shipboard oil pollution emergency plans adopted by the Marine Environment Protection Committee of the Organization on 6th March 1992 by Resolution MEPC 54(32) and includes any document amending it which is considered by the Registrar of Ships to be relevant from time to time and is specified in the appropriate Schedules to these Regulations, and the plan shall include at least - (a) the procedure to be followed by the master or other persons having charge of the ship to report an oil pollution incident",plan,1,5,DOCUMENTS,guidelines,33,42,SPECIFICATION,COMPLY_WITH
+443,"(5) An oil tanker to which this regulation applies - (a) if it is a Tanzania Zanzibar ship, shall be subject to an enhanced programme of inspections during renewal, annual, and intermediate surveys conducted pursuant to these Regulations and (b) if it is not a Tanzania Zanzibar ship, shall have undergone periodical, intermediate and annual surveys as provided for by the Convention, and the scope of such surveys shall at least comply (if the tanker is a Tanzania Zanzibar ship) or have complied (if the tanker is not a Tanzania Zanzibar ship) with guidelines developed by the Organization pursuant to regulation 13G(3)(a) of the Convention.",oil tanker,1,11,SYSTEM,inspections,78,89,ACTIVITIES,REQUIRED
+444,"The Maritime Transport Act regulates the installation of port waste reception facilities.",Maritime Transport Act,0,20,DOCUMENTS,port waste reception facilities,47,71,EQUIPMENT,REGULATES
+445,"Port operators must submit annual reports to the Authority.",Port operators,0,12,SUBJECT REGULATED,annual reports,23,36,DOCUMENTS,GENERATES
+446,"The Authority enforces penalties for non-compliance with waste management regulations.",Authority,4,13,AUTHORITIES,penalties,23,32,PENALTIES,IMPLEMENT
+447,"Ships generate waste that must be disposed of in port reception facilities.",Ships,0,5,SYSTEM,waste,16,21,POLLUTANT,GENERATES
+448,"Port reception facilities handle various types of ship-generated waste.",port reception facilities,0,21,EQUIPMENT,ship-generated waste,40,58,POLLUTANT,HAVE
+449,"The Registrar of Ships approves alternative design methods for oil tankers.",Registrar of Ships,4,21,AUTHORITIES,alternative design methods,22,42,SPECIFICATION,APPROVE
+450,"Shipboard oil pollution emergency plans must include procedures for reporting incidents.",Shipboard oil pollution emergency plans,0,36,DOCUMENTS,procedures,54,63,PROCEDURES,INCLUDE
+451,"The Marine Environment Protection Committee develops guidelines for pollution prevention.",Marine Environment Protection Committee,4,36,AUTHORITIES,guidelines,47,56,DOCUMENTS,EXTABLISHED
+452,"Oil tankers must comply with specific segregation requirements for cargo.",oil tankers,0,10,SYSTEM,segregation requirements,31,50,SPECIFICATION,COMPLY_WITH
+453,"New tankers of 20,000 tons deadweight and above require protective ballast spaces.",new tankers,0,10,SYSTEM,protective ballast spaces,43,62,SPECIFICATION,REQUIRED
+454,"Existing oil tankers engaged in specific trades must follow special ballast arrangements.",existing oil tankers,0,18,SYSTEM,special ballast arrangements,43,63,SPECIFICATION,FOLLOW
+455,"Offshore installations must adhere to specific pollution prevention measures.",offshore installations,0,18,SYSTEM,pollution prevention measures,38,59,PROCEDURES,ADHERE_TO
+456,"The Authority conducts inspections to ensure compliance with MARPOL standards.",Authority,4,13,AUTHORITIES,MARPOL standards,42,54,DOCUMENTS,MONITORS
+457,"Port operators manage the collection of waste fees from ships.",Port operators,0,12,SUBJECT_REGULATED,waste fees,29,38,PENALTIES,MANAGE
+458,"Ships must retain oily residues on board when discharge is prohibited.",Ships,0,5,SYSTEM,oily residues,16,27,POLLUTANT,RETAIN
+459,"Ballast water treatment systems must comply with IMO standards.",ballast water treatment systems,0,26,EQUIPMENT,IMO standards,37,47,DOCUMENTS,COMPLY_WITH
+460,"The Authority establishes criteria for the certification of tankers.",Authority,4,13,AUTHORITIES,criteria,28,35,SPECIFICATION,EXTABLISHED
+461,"Tankers with segregated ballast tanks prevent oil contamination.",tankers,0,7,SYSTEM,segregated ballast tanks,18,37,SPECIFICATION,PREVENT
+462,"Crude oil washing systems require operational permits.",crude oil washing systems,0,21,EQUIPMENT,operational permits,32,47,DOCUMENTS,REQUIRED
+463,"The Authority monitors the implementation of pollution control measures.",Authority,4,13,AUTHORITIES,pollution control measures,33,52,PROCEDURES,MONITOR
+464,"Ships must minimize oil pollution through side and bottom damage prevention.",Ships,0,5,SYSTEM,oil pollution,16,27,POLLUTANT,MINIMIZE
+465,"Enhanced inspection programmes apply to Tanzania Zanzibar ships.",enhanced inspection programmes,0,24,PROCEDURES,Tanzania Zanzibar ships,30,49,SYSTEM,APPLY_TO
+466,"The Authority issues guidelines for offshore installations.",Authority,4,13,AUTHORITIES,guidelines,24,33,DOCUMENTS,ISSUE
+467,"Oil tankers must segregate oil and water ballast.",oil tankers,0,10,SYSTEM,segregation,17,27,SPECIFICATION,REQUIRED
+468,"The Authority suspends proceedings at the request of the flag state.",Authority,4,13,AUTHORITIES,proceedings,24,34,ACTIVITIES,SUSPEND
+469,"Port reception facilities process waste collected from ships.",port reception facilities,0,21,EQUIPMENT,waste,32,37,POLLUTANT,PROCESS
+470,"Ships must carry approved instruction manuals for oil discharge systems.",Ships,0,5,SYSTEM,instruction manuals,22,38,DOCUMENTS,CARRY_OUT
+471,"The Authority compiles annual reports on waste management.",Authority,4,13,AUTHORITIES,annual reports,23,36,DOCUMENTS,COMPILE
+472,"Oil tankers must comply with subdivision and stability requirements.",oil tankers,0,10,SYSTEM,subdivision and stability requirements,21,45,SPECIFICATION,COMPLY_WITH
+473,"The Authority audits the performance of port operators.",Authority,4,13,AUTHORITIES,port operators,29,41,SUBJECT_REGULATED,AUDIT
+474,"Ships must ensure manual and automatic operation of oil discharge systems.",Ships,0,5,SYSTEM,operation,30,39,SPECIFICATION,ENSURE
+475,"The Authority mandates the use of pumping and piping arrangements.",Authority,4,13,AUTHORITIES,pumping and piping arrangements,24,46,SPECIFICATION,MANDATE
+476,"Port operators display fee schedules for waste reception services.",Port operators,0,12,SUBJECT_REGULATED,fee schedules,23,34,DOCUMENTS,DISPLAY
+477,"Ships must undergo intermediate surveys as per the Convention.",Ships,0,5,SYSTEM,intermediate surveys,16,30,ACTIVITIES,UNDERGO
+478,"The Authority reviews the effectiveness of pollution prevention measures.",Authority,4,13,AUTHORITIES,pollution prevention measures,34,53,PROCEDURES,REVIEW
+479,"Oil tankers must maintain stability during cargo operations.",oil tankers,0,10,SYSTEM,stability,21,29,SPECIFICATION,MAINTAIN
+480,"The Authority coordinates with international organizations for pollution control.",Authority,4,13,AUTHORITIES,international organizations,30,50,AUTHORITIES,COORDINATE
+481,"Ships must report incidents involving packaged dangerous goods.",Ships,0,5,SYSTEM,incidents,16,24,ACTIVITIES,REPORT
+482,"The Authority implements safety requirements for offshore installations.",Authority,4,13,AUTHORITIES,safety requirements,24,40,REQUIREMENTS,IMPLEMENT
+483,"Oil tankers must prevent oil carriage in forepeak tanks.",oil tankers,0,10,SYSTEM,oil carriage,21,32,SPECIFICATION,PREVENT
+484,"The Authority ensures compliance with shipboard oil pollution plans.",Authority,4,13,AUTHORITIES,shipboard oil pollution plans,24,47,DOCUMENTS,ENSURE
+485,"Ships must follow marking and labeling requirements for dangerous goods.",Ships,0,5,SYSTEM,marking and labeling requirements,16,36,SPECIFICATION,FOLLOW
+486,"The Authority conducts training programmes for inspectors.",Authority,4,13,AUTHORITIES,training programmes,24,39,PROCEDURES,CONDUCT
+487,"Oil tankers must manage oil residue in designated sludge tanks.",oil tankers,0,10,SYSTEM,oil residue,21,31,POLLUTANT,MANAGE
+488,"The Authority establishes procedures for compounding offences.",Authority,4,13,AUTHORITIES,procedures,24,33,PROCEDURES,EXTABLISHED
+489,"Ships must comply with stowage requirements for explosives.",Ships,0,5,SYSTEM,stowage requirements,16,30,SPECIFICATION,COMPLY_WITH
+490,"The Authority oversees the installation of waste reception equipment.",Authority,4,13,AUTHORITIES,waste reception equipment,24,44,EQUIPMENT,OVERSEE
+491,"Oil tankers must optimize ballast water management.",oil tankers,0,10,SYSTEM,ballast water management,21,39,PROCEDURES,OPTIMIZE
+492,"The Authority issues certificates for compliant ships.",Authority,4,13,AUTHORITIES,certificates,24,34,DOCUMENTS,ISSUE
+493,"Ships must adhere to packaging standards for dangerous goods.",Ships,0,5,SYSTEM,packaging standards,16,31,SPECIFICATION,ADHERE_TO
+494,"The Authority enforces regulations for waste disposal.",Authority,4,13,AUTHORITIES,waste disposal,24,36,DISPOSAL,ENFORCE
+495,"Oil tankers must reduce oil pollution through improved design.",oil tankers,0,10,SYSTEM,oil pollution,21,32,POLLUTANT,REDUCE
+496,"The Authority provides guidance on emergency response plans.",Authority,4,13,AUTHORITIES,emergency response plans,24,42,DOCUMENTS,PROVIDE
+497,"Ships must implement procedures for pollution prevention.",Ships,0,5,SYSTEM,procedures,16,25,PROCEDURES,IMPLEMENT
+498,"The Authority maintains records of inspection findings.",Authority,4,13,AUTHORITIES,inspection findings,24,40,DOCUMENTS,MAINTAIN
+499,"Oil tankers must enhance structural integrity through design improvements.",oil tankers,0,10,SYSTEM,structural integrity,21,37,SPECIFICATION,ENHANCE
+500,"The Authority evaluates the performance of waste management systems.",Authority,4,13,AUTHORITIES,waste management systems,24,44,SYSTEM,EVALUATE
+501,"In the event of any inspection revealing deficiencies, the Inspector shall take such steps as to ensure that the ship will not sail until the situation has been brought to order in accordance with the requirements of these Regulations.",Inspector,44,52,AUTHORITIES,ship,76,79,SYSTEM,RESTRICT
+502,"Upon receiving evidence that a particular ship has discharged oil or an oily mixture contrary to the provisions of these Regulations, the Registrar of Ships shall cause the matter to be investigated.",Registrar of Ships,53,70,AUTHORITIES,investigation,98,108,ACTIVITIES,IMPLEMENT
+503,"The Registrar of Ships shall inform the State which has reported the contravention, as well as the Organisation, of the action taken.",Registrar of Ships,0,17,AUTHORITIES,State,28,33,REGION,INFORM
+504,"If author master has reason to believe that a ship does not comply with the requirements of these Regulations, he shall immediately report the matter to the Registrar of Ships.",author master,3,15,SUBJECT_REGULATED,Registrar of Ships,79,96,AUTHORITIES,REPORT
+505,"The Registrar of Ships may deny the entry of such ship to any port or offshore terminal in Zanzibar if it presents an unreasonable threat of harm to the marine environment.",Registrar of Ships,0,17,AUTHORITIES,entry denial,21,32,PENALTIES,APPLY_TO
+506,"In any case where a ship is suspected of a contravention of the requirements of these Regulations, the ship shall be liable to be detained.",ship,25,29,SYSTEM,detention,53,62,PENALTIES,LIABLE_TO
+507,"Where the steps taken by an inspector under regulation 34 involve detention of the ship, the provisions of the Act relating to the detention of a ship shall have effect.",inspector,10,18,AUTHORITIES,detention,43,52,PENALTIES,INVOLVE_IN
+508,"Where a ship other than a Tanzania Zanzibar ship is denied entry, the Registrar of Ships shall immediately inform the consul or diplomatic representative of the State whose flag the ship is entitled to fly.",Registrar of Ships,48,65,AUTHORITIES,consul,84,90,AUTHORITIES,INFORM
+509,"If any ship fails to comply with any requirement of these Regulations, the owner and the master of the ship commit an offence.",ship,3,7,SYSTEM,compliance,21,31,SPECIFICATION,COMPLY_WITH
+510,"It shall be a defence for a person charged under sub regulation (1) of this regulation to show that he took all reasonable precautions.",person,10,16,SUBJECT_REGULATED,precautions,52,63,SPECIFICATION,HAVE
+511,"Where an offence under this regulation is committed due to the act or default of some other person, that other person shall be guilty of the offence.",offence,6,12,PENALTIES,person,44,49,SUBJECT_REGULATED,GUILTY_OF
+512,"This regulation relates to an alleged offence of contravening regulation 12, 13 or 16 of these Regulations by a ship which is not a Tanzania Zanzibar ship.",regulation,0,9,DOCUMENTS,ship,73,77,SYSTEM,REGULATES
+513,"Any proceedings for such an offence shall be stayed if the Court is satisfied that the flag state has instituted corresponding proceedings.",Court,40,45,AUTHORITIES,proceedings,62,73,ACTIVITIES,STAY
+514,"Sub regulation (1) of this regulation shall not apply where the discharge resulted in major damage to the Zanzibar.",discharge,36,44,DISPOSAL,Zanzibar,68,76,REGION,AFFECT
+515,"The Registrar of Ships certifies that the flag state has repeatedly disregarded its obligation to enforce effectively the requirements of the Convention.",Registrar of Ships,0,17,AUTHORITIES,flag state,31,40,REGION,CERTIFY
+516,"Where proceedings instituted by the flag state have been brought to a conclusion, the suspended proceedings shall be terminated.",flag state,19,28,REGION,proceedings,40,51,ACTIVITIES,TERMINATE
+517,"Where the costs of the Registrar of Ships incurred in respect of proceedings suspended under sub regulation (2) of this regulation have been paid, any money paid or security given shall be released.",Registrar of Ships,10,27,AUTHORITIES,costs,28,33,PENALTIES,INCUR
+518,"Notwithstanding any other law, where a ship violates any provision of these Regulations, the Registrar of Ships may serve a notice on that ship.",ship,37,41,SYSTEM,Regulations,54,65,DOCUMENTS,VIOlate
+519,"The notice shall specify the name and registration number of the ship, the offence alleged to have been committed, and the place and time upon which the offence occurred.",notice,4,10,DOCUMENTS,ship,37,41,SYSTEM,SPECIFY
+520,"The ship served with a notice shall pay the amount of fine to the Authority within seven days from the date of delivery.",ship,0,4,SYSTEM,fine,38,42,PENALTIES,PAY
+521,"Where a ship fails to pay such a fine within the time limit specified in the notice, the Authority shall proceed with criminal action against such a ship.",Authority,65,73,AUTHORITIES,criminal action,89,103,PENALTIES,PROCEED_WITH
+522,"When the ship pays the amount of fine specified in the notice, no further criminal actions relating to the same offence shall be taken against the ship.",ship,5,9,SYSTEM,criminal actions,43,57,PENALTIES,AVOID
+523,"Surveys must be conducted under Part IV of the Regulations.",surveys,0,7,PROCEDURES,Regulations,30,41,DOCUMENTS,CONDUCT
+524,"Issue or endorsement of Certificates must follow specific procedures outlined in the Regulations.",Certificates,0,11,DOCUMENTS,procedures,37,47,PROCEDURES,FOLLOW
+525,"A Tanzanian ship proceeding to sea without a Sewage Certificate is prohibited.",Tanzanian ship,2,15,SYSTEM,Sewage Certificate,40,55,DOCUMENTS,PROHIBIT
+526,"Non-Tanzanian ships proceeding to sea must comply with international standards.",Non-Tanzanian ships,0,19,SYSTEM,international standards,38,56,SPECIFICATION,COMPLY_WITH
+527,"The responsibilities of the owner and master of a Tanzanian ship include maintaining proper documentation.",owner,4,9,SUBJECT_REGULATED,documentation,55,67,DOCUMENTS,MAINTAIN
+528,"Miscellaneous provisions relating to the Sewage Certificate are outlined in the Regulations.",Sewage Certificate,23,38,DOCUMENTS,Regulations,57,68,DOCUMENTS,OUTLINE
+529,"The Merchant Shipping Act establishes guidelines for the prevention of pollution by sewage from ships.",Merchant Shipping Act,0,21,DOCUMENTS,guidelines,40,50,SPECIFICATION,ESTABLISH
+530,"Discharge connections must meet specific requirements to prevent pollution.",discharge connections,0,18,EQUIPMENT,requirements,32,43,SPECIFICATION,MEET
+531,"Sewage systems installed on ships must comply with technical specifications.",sewage systems,0,13,EQUIPMENT,technical specifications,32,51,SPECIFICATION,COMPLY_WITH
+532,"Surveys conducted under these Regulations ensure compliance with international maritime laws.",surveys,0,7,PROCEDURES,international maritime laws,42,64,DOCUMENTS,ENSURE
+533,"The issue or endorsement of Certificates by another Party requires approval from the Registrar of Ships.",Certificates,4,15,DOCUMENTS,Registrar of Ships,53,70,AUTHORITIES,REQUIRED
+534,"The form of Certificate issued must conform to standards set by the Organisation.",Certificate,4,13,DOCUMENTS,standards,39,47,SPECIFICATION,COMPLY_WITH
+535,"Duration and validity of Certificates are determined based on compliance with Regulations.",Certificates,0,11,DOCUMENTS,Regulations,48,59,DOCUMENTS,RELATED_TO
+536,"Prohibition on ships proceeding to sea without required documentation ensures safety.",prohibition,0,10,PENALTIES,documentation,46,58,DOCUMENTS,ENSURE
+537,"Responsibilities of owners and masters include ensuring proper waste management.",owners,15,21,SUBJECT_REGULATED,waste management,42,56,PROCEDURES,IMPLEMENT
+538,"Miscellaneous provisions outline additional requirements for ship operators.",miscellaneous provisions,0,21,DOCUMENTS,ship operators,47,60,SUBJECT_REGULATED,APPLY_TO
+539,"The Merchant Shipping Act regulates the discharge of sewage from ships.",Merchant Shipping Act,0,21,DOCUMENTS,sewage discharge,31,45,DISPOSAL,REGULATES
+540,"Equipment used for sewage treatment must meet environmental standards.",equipment,0,8,EQUIPMENT,environmental standards,31,50,SPECIFICATION,MEET
+541,"Control of discharge systems involves monitoring and reporting mechanisms.",discharge systems,0,16,EQUIPMENT,monitoring,34,43,PROCEDURES,INVOLVE_IN
+542,"Ships must carry approved sewage treatment systems onboard.",ships,0,5,SYSTEM,sewage treatment systems,20,39,EQUIPMENT,CARRY_OUT
+543,"Authorities monitor compliance with sewage discharge regulations.",Authorities,0,10,AUTHORITIES,sewage discharge regulations,24,47,DOCUMENTS,MONITOR
+544,"Violation of sewage discharge rules results in penalties.",violation,0,9,PENALTIES,penalties,30,39,PENALTIES,GENERATES
+545,"Procedures for issuing Certificates ensure consistency across jurisdictions.",procedures,0,9,PROCEDURES,jurisdictions,42,55,REGION,APPLY_TO
+546,"The issuance of Certificates by another Government requires verification.",Certificates,4,15,DOCUMENTS,verification,49,59,PROCEDURES,REQUIRED
+547,"Forms of Certificates must align with international conventions.",forms,0,5,DOCUMENTS,international conventions,23,42,DOCUMENTS,ALIGN_WITH
+548,"Validity periods of Certificates depend on regulatory compliance.",Certificates,0,11,DOCUMENTS,regulatory compliance,31,47,DOCUMENTS,RELATED_TO
+549,"Prohibitions on sailing without proper documentation protect the environment.",prohibitions,0,11,PENALTIES,environment,51,62,SPECIFICATION,PROTECT
+550,"Owners and masters are responsible for implementing waste management plans.",owners,0,6,SUBJECT_REGULATED,waste management plans,31,50,DOCUMENTS,IMPLEMENT
+551,"Additional provisions address unforeseen circumstances affecting ship operations.",provisions,0,9,DOCUMENTS,ship operations,43,57,ACTIVITIES,ADDRESS
+552,"The Merchant Shipping Act governs the prevention of pollution by sewage.",Merchant Shipping Act,0,21,DOCUMENTS,prevention of pollution,30,49,PROCEDURES,REGULATES
+553,"Inspection of ships is conducted under Part V of the Regulations.",inspection,0,9,ACTIVITIES,Regulations,34,44,DOCUMENTS,RELATED_TO
+554,"Provisions on detention are established to ensure compliance.",provisions,0,9,DOCUMENTS,compliance,31,41,SPECIFICATION,EXTABLISHED
+555,"The Harbour Master has the power to detain a ship.",Harbour Master,4,16,AUTHORITIES,ship,32,36,SYSTEM,RESTRICT
+556,"The duty of the Harbour Master includes reporting deficient ships.",Harbour Master,9,21,AUTHORITIES,deficient ships,47,60,SYSTEM,RELATED_TO
+557,"Offences and penalties are outlined in Part VI of the Regulations.",offences,0,8,PENALTIES,Regulations,35,45,DOCUMENTS,RELATED_TO
+558,"A general penalty applies to violations of these Regulations.",general penalty,2,15,PENALTIES,violations,30,40,ACTIVITIES,APPLY_TO
+559,"Complaints handling procedures are detailed in Part VII.",complaints handling,0,16,PROCEDURES,Part VII,30,37,DOCUMENTS,RELATED_TO
+560,"Evaluation and reporting are required for regulatory compliance.",evaluation,0,10,ACTIVITIES,compliance,31,41,SPECIFICATION,REQUIRED
+561,"The Merchant Shipping Act regulates sewage discharge from ships.",Merchant Shipping Act,0,21,DOCUMENTS,sewage discharge,30,45,DISPOSAL,REGULATES
+562,"Ships must comply with sewage treatment requirements.",ships,0,5,SYSTEM,sewage treatment,16,30,REQUIREMENTS,COMPLY_WITH
+563,"Sewage systems installed on ships generate waste data.",sewage systems,0,13,EQUIPMENT,waste data,34,43,SPECIFICATION,GENERATES
+564,"Discharge connections must meet specific standards.",discharge connections,0,18,EQUIPMENT,standards,29,38,SPECIFICATION,COMPLY_WITH
+565,"Surveys conducted under these Regulations ensure safety.",surveys,0,7,PROCEDURES,safety,36,42,SPECIFICATION,RELATED_TO
+566,"Certificates issued under these Regulations have validity periods.",Certificates,0,11,DOCUMENTS,validity periods,39,52,SPECIFICATION,HAVE
+567,"Tanzanian ships require Sewage Certificates to proceed to sea.",Tanzanian ships,0,15,SYSTEM,Sewage Certificates,26,41,DOCUMENTS,REQUIRED
+568,"Non-Tanzanian ships must follow international guidelines.",Non-Tanzanian ships,0,18,SYSTEM,international guidelines,29,47,SPECIFICATION,FOLLOW
+569,"Owners and masters are responsible for proper documentation.",owners,0,6,SUBJECT REGULATED,documentation,31,43,DOCUMENTS,RELATED_TO
+570,"Miscellaneous provisions relate to additional requirements.",miscellaneous provisions,0,20,DOCUMENTS,requirements,34,45,SPECIFICATION,RELATED_TO
+571,"The Merchant Shipping Act establishes procedures for inspections.",Merchant Shipping Act,0,21,DOCUMENTS,inspections,39,49,PROCEDURES,EXTABLISHED
+572,"Detention powers apply to ships violating regulations.",detention powers,0,15,PENALTIES,ships,27,32,SYSTEM,APPLY_TO
+573,"Reporting mechanisms involve electronic documentation.",reporting mechanisms,0,18,PROCEDURES,electronic documentation,28,46,DOCUMENTS,INVOLVE_IN
+574,"Ship operators must implement waste management plans.",ship operators,0,12,SUBJECT REGULATED,waste management plans,23,42,PROCEDURES,IMPLEMENT
+575,"Harbour Masters monitor compliance with sewage regulations.",Harbour Masters,0,14,AUTHORITIES,sewage regulations,29,45,DOCUMENTS,MONITORS
+576,"Violation of sewage discharge rules results in penalties.",violation,0,9,PENALTIES,penalties,30,39,PENALTIES,RELATED_TO
+577,"Procedures for issuing certificates ensure consistency.",procedures,0,9,PROCEDURES,certificates,29,39,DOCUMENTS,RELATED_TO
+578,"Issuance of certificates requires approval from authorities.",certificates,9,20,DOCUMENTS,authorities,39,50,AUTHORITIES,REQUIRED
+579,"Forms of certificates must align with conventions.",forms,0,5,DOCUMENTS,conventions,21,31,DOCUMENTS,COMPLY_WITH
+580,"Validity of certificates depends on regulatory compliance.",certificates,0,11,DOCUMENTS,compliance,27,37,SPECIFICATION,RELATED_TO
+581,"Prohibitions on sailing without documentation protect the environment.",prohibitions,0,12,PENALTIES,environment,42,53,SPECIFICATION,RELATED_TO
+582,"Waste management responsibilities include maintaining records.",responsibilities,0,14,PROCEDURES,records,35,42,DOCUMENTS,RELATED_TO
+583,"Additional provisions address unforeseen operational challenges.",provisions,0,10,DOCUMENTS,challenges,32,42,SPECIFICATION,RELATED_TO
+584,"The Merchant Shipping Act restricts unauthorized discharges.",Merchant Shipping Act,0,21,DOCUMENTS,discharges,32,41,DISPOSAL,RESTRICT
+585,"Equipment used for sewage treatment complies with standards.",equipment,0,8,EQUIPMENT,standards,31,40,SPECIFICATION,COMPLY_WITH
+586,"Control of discharge systems involves monitoring mechanisms.",discharge systems,0,16,EQUIPMENT,monitoring,28,37,PROCEDURES,INVOLVE_IN
+587,"Ships must carry approved sewage treatment systems onboard.",ships,0,5,SYSTEM,sewage treatment systems,20,39,EQUIPMENT,CARRY_OUT
+588,"Authorities monitor compliance with sewage discharge regulations.",Authorities,0,10,AUTHORITIES,sewage discharge regulations,24,47,DOCUMENTS,MONITORS
+589,"Violation of sewage discharge rules triggers enforcement actions.",violation,0,9,PENALTIES,enforcement actions,30,48,ACTIVITIES,RELATED_TO
+590,"Procedures for certification ensure uniform application.",procedures,0,9,PROCEDURES,application,29,39,SPECIFICATION,RELATED_TO
+591,"Certification processes require verification steps.",processes,11,20,PROCEDURES,verification,30,40,PROCEDURES,REQUIRED
+592,"Forms of certificates conform to international standards.",forms,0,5,DOCUMENTS,international standards,21,31,SPECIFICATION,COMPLY_WITH
+593,"Validity periods of certificates are determined by compliance.",certificates,0,11,DOCUMENTS,compliance,28,38,SPECIFICATION,RELATED_TO
+594,"Prohibitions on sailing without permits safeguard marine ecosystems.",prohibitions,0,12,PENALTIES,ecosystems,43,53,SPECIFICATION,RELATED_TO
+595,"Responsibilities of owners include ensuring waste disposal protocols.",owners,15,21,SUBJECT REGULATED,protocols,38,46,PROCEDURES,RELATED_TO
+596,"Miscellaneous provisions outline emergency response plans.",provisions,0,12,DOCUMENTS,plans,28,33,PROCEDURES,RELATED_TO
+597,"The Merchant Shipping Act regulates shipboard waste management.",Merchant Shipping Act,0,21,DOCUMENTS,waste management,30,44,PROCEDURES,REGULATES
+598,"Equipment specifications must meet environmental protection norms.",specifications,0,13,SPECIFICATION,norms,30,35,SPECIFICATION,COMPLY_WITH
+599,"Monitoring systems detect anomalies in waste discharge.",systems,0,7,EQUIPMENT,anomalies,28,37,SPECIFICATION,MONITORS
+600,"Ships must install approved waste processing units.",ships,0,5,SYSTEM,units,26,31,EQUIPMENT,CARRY_OUT
+601,"Ships must install approved waste processing units.",ships,0,5,SYSTEM,units,26,31,EQUIPMENT,CARRY_OUT
+602,"A ship must comply with subregulation (1) regarding equipment checks.",ship,2,6,SYSTEM,subregulation (1),20,37,DOCUMENTS,COMPLY_WITH
+603,"The surveyor is required by regulation to examine the sewage system.",surveyor,4,12,AUTHORITIES,regulation,29,38,DOCUMENTS,REQUIRED
+604,"The Corporation establishes procedures for issuing Sewage Certificates.",The Corporation,4,18,AUTHORITIES,Sewage Certificates,42,60,DOCUMENTS,ESTABLISHED
+605,"Owners follow guidelines in the Convention for safe operations.",Owners,0,5,SUBJECT REGULATED,the Convention,32,45,DOCUMENTS,FOLLOW
+606,"Port State officials monitor the marine environment.",Port State officials,0,19,AUTHORITIES,marine environment,31,48,REGION,MONITORS
+607,"The Corporation manages repairs to the ship.",The Corporation,0,14,AUTHORITIES,repairs,23,29,ACTIVITIES,MANAGES
+608,"Renewal surveys involve compliance checks.",Renewal surveys,0,14,PROCEDURES,compliance checks,23,40,ACTIVITIES,INVOLVE_IN
+609,"The authorities restrict the Sewage Certificate if the ship poses a threat.",The authorities,4,18,AUTHORITIES,Sewage Certificate,34,51,DOCUMENTS,RESTRICT
+610,"The recognised organisation carries out inspections on request.",recognised organisation,4,26,AUTHORITIES,inspections,40,51,PROCEDURES,CARRY_OUT
+611,"Shipowners must implement corrective actions for equipment defects.",Shipowners,0,9,SUBJECT REGULATED,corrective actions,20,38,ACTIVITIES,IMPLEMENT
+612,"A survey is required before issuing an Exemption Certificate.",survey,2,7,PROCEDURES,Exemption Certificate,37,56,DOCUMENTS,REQUIRED
+613,"Port State officials restrict foreign vessels lacking documents.",Port State officials,0,19,AUTHORITIES,foreign vessels,28,43,SYSTEM,RESTRICT
+614,"The surveyor implements checklists for verifying equipment onboard.",surveyor,4,12,AUTHORITIES,checklists,23,32,DOCUMENTS,IMPLEMENT
+615,"Subregulation (3) applies to procedures for renewal surveys.",Subregulation (3),0,17,DOCUMENTS,procedures,28,37,PROCEDURES,APPLY_TO
+616,"Owners have responsibilities under regulation to maintain the ship.",Owners,0,5,SUBJECT REGULATED,responsibilities,11,26,REQUIREMENTS,HAVE
+617,"An accident generates reports for the Corporation to review.",accident,3,10,ACTIVITIES,reports,20,26,DOCUMENTS,GENERATES
+618,"The marine environment is of critical concern for the Port State.",marine environment,4,21,REGION,Port State,58,67,REGION,OF
+619,"Surveyors must comply with subregulation (4) for equipment standards.",Surveyors,0,8,AUTHORITIES,subregulation (4),20,37,DOCUMENTS,COMPLY_WITH
+620,"Equipment standards are established in Annex IV of the Convention.",Equipment standards,0,18,SPECIFICATION,Annex IV,37,44,DOCUMENTS,ESTABLISHED
+621,"The Convention regulates procedures for sewage management.",The Convention,0,13,DOCUMENTS,sewage management,35,52,PROCEDURES,REGULATES
+622,"Recognised organisations carry out surveys on Tanzanian ships.",Recognised organisations,0,25,AUTHORITIES,surveys,38,45,PROCEDURES,CARRY_OUT
+623,"Tanzanian ships must follow the Sewage Pollution Prevention Exemption Certificate.",Tanzanian ships,0,14,SYSTEM,Sewage Pollution Prevention Exemption Certificate,27,74,DOCUMENTS,FOLLOW
+624,"The Corporation monitors compliance with subregulation (5).",The Corporation,0,14,AUTHORITIES,subregulation (5),35,52,DOCUMENTS,MONITORS
+625,"The master of a ship is restricted from sailing without valid documents.",master of a ship,4,19,SUBJECT REGULATED,valid documents,58,73,DOCUMENTS,RESTRICT
+626,"The surveyor must apply to the Corporation for authorisation.",the surveyor,4,15,AUTHORITIES,the Corporation,26,40,AUTHORITIES,APPLY_TO
+627,"A defect in equipment generates urgent corrective action.",defect in equipment,2,21,SPECIFICATION,urgent corrective action,31,54,ACTIVITIES,GENERATES
+628,"Repairs are required by subregulation (3) to restore compliance.",Repairs,0,6,ACTIVITIES,subregulation (3),22,39,DOCUMENTS,REQUIRED
+629,"The Corporation monitors Sewage Certificates for validity.",The Corporation,0,14,AUTHORITIES,Sewage Certificates,24,43,DOCUMENTS,MONITORS
+630,"Authorities restrict a ship that threatens the marine environment.",Authorities,0,10,AUTHORITIES,a ship,19,24,SYSTEM,RESTRICT
+631,"Surveyors carry out inspections under regulation (8).",Surveyors,0,8,AUTHORITIES,inspections,20,31,PROCEDURES,CARRY_OUT
+632,"The Corporation implements penalties if subregulation (6) is violated.",The Corporation,0,14,AUTHORITIES,penalties,25,33,PENALTIES,IMPLEMENT
+633,"A Sewage Certificate is established under regulation (9).",Sewage Certificate,2,20,DOCUMENTS,regulation (9),39,52,DOCUMENTS,ESTABLISHED
+634,"Short voyages have special requirements for sewage discharge.",Short voyages,0,12,ACTIVITIES,special requirements,18,38,REQUIREMENTS,HAVE
+635,"The Port State monitors the marine environment for pollution.",The Port State,0,13,AUTHORITIES,marine environment,28,45,REGION,MONITORS
+636,"A suspended Sewage Certificate applies to a restricted ship.",suspended Sewage Certificate,2,29,DOCUMENTS,restricted ship,43,57,SYSTEM,APPLY_TO
+637,"The Administration manages the issuance of Sewage Certificates.",The Administration,0,17,AUTHORITIES,Sewage Certificates,38,57,DOCUMENTS,MANAGES
+638,"Marine pollution is restricted by these regulations.",Marine pollution,0,15,POLLUTANT,these regulations,34,51,DOCUMENTS,RESTRICT
+639,"The recognised organisation must comply with subregulation (7).",The recognised organisation,4,27,AUTHORITIES,subregulation (7),43,60,DOCUMENTS,COMPLY_WITH
+640,"A major defect in the sewage system have serious consequences.",major defect,2,13,SPECIFICATION,the sewage system,21,38,SYSTEM,HAVE
+641,"Inspections are carried out under the Merchant Shipping Act.",Inspections,0,11,PROCEDURES,Merchant Shipping Act,33,54,DOCUMENTS,CARRY_OUT
+642,"The master implements the safety procedures on board.",the master,4,13,SUBJECT REGULATED,safety procedures,28,45,PROCEDURES,IMPLEMENT
+643,"Any accidental discharge is restricted by regulation.",accidental discharge,4,23,DISPOSAL,regulation,44,53,DOCUMENTS,RESTRICT
+644,"Subregulation (8) is established to manage sewage equipment standards.",Subregulation (8),0,17,DOCUMENTS,sewage equipment standards,39,66,SPECIFICATION,ESTABLISHED
+645,"Owners must comply with the renewal survey requirements.",Owners,0,5,SUBJECT REGULATED,renewal survey requirements,28,54,REQUIREMENTS,COMPLY_WITH
+646,"The Corporation have authority OF certificate suspension.",The Corporation,0,14,AUTHORITIES,certificate suspension,29,49,ACTIVITIES,OF
+647,"Port authorities monitor compliance with sewage prevention rules.",Port authorities,0,15,AUTHORITIES,sewage prevention rules,35,59,DOCUMENTS,MONITORS
+648,"The Sewage Certificate is required for voyages to foreign ports.",The Sewage Certificate,0,20,DOCUMENTS,voyages to foreign ports,38,61,ACTIVITIES,REQUIRED
+649,"Inspectors carry out procedures under the Fourth Schedule.",Inspectors,0,9,AUTHORITIES,procedures,20,29,PROCEDURES,CARRY_OUT
+650,"Subregulation (10) applies to changes in structure or equipment.",Subregulation (10),0,18,DOCUMENTS,changes in structure or equipment,28,61,ACTIVITIES,APPLY_TO
+651,"The owner must manage any repairs according to subregulation (11).",The owner,0,8,SUBJECT REGULATED,repairs,22,28,ACTIVITIES,MANAGES
+652,"The master of the vessel must follow subregulation (12) for reporting.",the master of the vessel,4,24,SUBJECT REGULATED,subregulation (12),35,52,DOCUMENTS,FOLLOW
+653,"Sewage systems generate waste that must meet specifications.",Sewage systems,0,13,SYSTEM,waste,22,26,DISPOSAL,GENERATES
+654,"The Corporation have documents OF final survey findings.",The Corporation,0,14,AUTHORITIES,final survey findings,27,48,DOCUMENTS,OF
+655,"Port State control restricts a damaged ship from leaving the port.",Port State control,0,17,AUTHORITIES,a damaged ship,28,40,SYSTEM,RESTRICT
+656,"The Convention is established to prevent marine pollution.",The Convention,0,13,DOCUMENTS,marine pollution,39,55,POLLUTANT,ESTABLISHED
+657,"penalties apply to owners who violate sewage rules.",penalties,0,8,PENALTIES,owners,18,23,SUBJECT REGULATED,APPLY_TO
+658,"The recognized organisation must carry out vessel inspections periodically.",The recognized organisation,4,27,AUTHORITIES,vessel inspections,42,60,PROCEDURES,CARRY_OUT
+659,"Subregulation (13) is required for important repairs.",Subregulation (13),0,17,DOCUMENTS,important repairs,34,50,ACTIVITIES,REQUIRED
+660,"An Exemption Certificate have conditions OF barge operations.",An Exemption Certificate,0,21,DOCUMENTS,barge operations,41,57,ACTIVITIES,OF
+661,"Marine environment must comply with protective measures.",Marine environment,0,17,REGION,protective measures,29,47,REQUIREMENTS,COMPLY_WITH
+662,"Owners are required to have a valid Sewage Certificate.",Owners,0,5,SUBJECT REGULATED,a valid Sewage Certificate,25,48,DOCUMENTS,HAVE
+663,"The recognized organisation monitors compliance under regulation (14).",The recognized organisation,4,27,AUTHORITIES,regulation (14),50,64,DOCUMENTS,MONITORS
+664,"Subregulation (2) restricts any ship lacking mandatory equipment.",Subregulation (2),0,17,DOCUMENTS,any ship,28,35,SYSTEM,RESTRICT
+665,"Appropriate authorities carry out renewal surveys for older vessels.",Appropriate authorities,0,22,AUTHORITIES,renewal surveys,34,49,PROCEDURES,CARRY_OUT
+666,"Vessels must follow the instructions of the Port State.",Vessels,0,7,SYSTEM,the instructions of the Port State,18,50,DOCUMENTS,FOLLOW
+667,"An offshore terminal is part OF the coastal region.",An offshore terminal,0,19,REGION,the coastal region,30,47,REGION,OF
+668,"Marine environment regulations are established by the Corporation.",Marine environment regulations,0,28,DOCUMENTS,the Corporation,49,63,AUTHORITIES,ESTABLISHED
+669,"Inspections apply to ships entering the United Republic.",Inspections,0,11,PROCEDURES,ships,23,28,SYSTEM,APPLY_TO
+670,"A recognized organisation manages the issuance of Exemption Certificates.",A recognized organisation,2,25,AUTHORITIES,the issuance of Exemption Certificates,34,66,ACTIVITIES,MANAGES
+671,"Equipment must comply with the standards set by subregulation (15).",Equipment,0,8,EQUIPMENTS,subregulation (15),47,64,DOCUMENTS,COMPLY_WITH
+672,"The master is required to have the Sewage Certificate on board.",the master,4,13,SUBJECT REGULATED,the Sewage Certificate,28,48,DOCUMENTS,REQUIRED
+673,"Port officials monitor any disposal of waste in local waters.",Port officials,0,13,AUTHORITIES,disposal of waste,24,39,DISPOSAL,MONITORS
+674,"Survey activities generate compliance records for the Corporation.",Survey activities,0,16,ACTIVITIES,compliance records,25,43,DOCUMENTS,GENERATES
+675,"The Corporation must follow guidelines in the Fourth Schedule.",The Corporation,0,14,AUTHORITIES,the Fourth Schedule,35,53,DOCUMENTS,FOLLOW
+676,"Marine regulations apply to ships traveling through the region.",Marine regulations,0,17,DOCUMENTS,ships,29,34,SYSTEM,APPLY_TO
+677,"A recognized authority implements penalty measures for major violations.",A recognized authority,2,22,AUTHORITIES,penalty measures,34,49,PENALTIES,IMPLEMENT
+678,"The Convention manages requirements for international sewage control.",The Convention,0,13,DOCUMENTS,requirements,22,33,REQUIREMENTS,MANAGES
+679,"Subregulation (6) was established to set certain equipment standards.",Subregulation (6),0,17,DOCUMENTS,certain equipment standards,38,64,SPECIFICATION,ESTABLISHED
+680,"Surveys involve checking the disposal systems onboard the vessel.",Surveys,0,6,PROCEDURES,the disposal systems,23,42,SYSTEM,INVOLVE_IN
+681,"The master must have subregulation (10) posted for reference.",The master,0,9,SUBJECT REGULATED,subregulation (10),20,37,DOCUMENTS,HAVE
+682,"A defect in sewage equipment restricts the ship from departing.",defect in sewage equipment,2,27,SPECIFICATION,the ship,38,45,SYSTEM,RESTRICT
+683,"Authorities are required to assess the marine environment regularly.",Authorities,0,10,AUTHORITIES,the marine environment,36,55,REGION,REQUIRED
+684,"Regulation (16) restricts a suspended Certificate.",Regulation (16),0,15,DOCUMENTS,a suspended Certificate,26,47,DOCUMENTS,RESTRICT
+685,"Ship transfers must comply with subregulation (9) upon changing flags.",Ship transfers,0,13,ACTIVITIES,subregulation (9),29,44,DOCUMENTS,COMPLY_WITH
+686,"The Port Authority manages an offshore terminal for docking.",The Port Authority,0,17,AUTHORITIES,an offshore terminal,26,45,REGION,MANAGES
+687,"The Corporation implements a procedure to unify survey processes.",The Corporation,0,14,AUTHORITIES,a procedure,25,35,PROCEDURES,IMPLEMENT
+688,"A recognized organisation must carry out disposal checks.",A recognized organisation,2,25,AUTHORITIES,disposal checks,41,55,ACTIVITIES,CARRY_OUT
+689,"The Sewage Certificate have no effect OF an expired survey date.",The Sewage Certificate,0,19,DOCUMENTS,an expired survey date,39,61,SPECIFICATION,OF
+690,"Short voyages are restricted by subregulation if equipment is incomplete.",Short voyages,0,12,ACTIVITIES,subregulation,32,45,DOCUMENTS,RESTRICT
+691,"Marine environment must follow specific guidelines under Annex IV.",Marine environment,0,17,REGION,Annex IV,49,56,DOCUMENTS,FOLLOW
+692,"The master carry out operational checks of the disposal system.",the master,4,13,SUBJECT REGULATED,operational checks,24,42,ACTIVITIES,CARRY_OUT
+693,"Subregulation (11) regulates the disposal system.",Subregulation (11),0,18,DOCUMENTS,the disposal system,30,48,SYSTEM,REGULATES
+694,"Equipment failures generate a threat to the marine environment.",Equipment failures,0,17,SPECIFICATION,the marine environment,40,59,REGION,GENERATES
+695,"Penalties apply to surveyors who neglect required inspections.",Penalties,0,8,PENALTIES,surveyors,18,27,AUTHORITIES,APPLY_TO
+696,"Regulation (2) is established to manage ship certification.",Regulation (2),0,13,DOCUMENTS,ship certification,33,50,DOCUMENTS,ESTABLISHED
+697,"Owners must manage the disposal of sewage responsibly.",Owners,0,5,SUBJECT REGULATED,the disposal of sewage,18,39,DISPOSAL,MANAGES
+698,"A recognized authority monitors vessel compliance for subregulation (10).",A recognized authority,2,22,AUTHORITIES,vessel compliance,31,48,REQUIREMENTS,MONITORS
+699,"Survey procedures implement guidance from regulation (13).",Survey procedures,0,17,PROCEDURES,regulation (13),41,56,DOCUMENTS,IMPLEMENT
+700,"The Corporation must have updated records OF each inspection.",The Corporation,0,14,AUTHORITIES,updated records,25,39,DOCUMENTS,OF
+701,"Penalties are required if the ship lacks a Sewage Certificate.",Penalties,0,8,PENALTIES,the ship,30,38,SYSTEM,REQUIRED
+702,"An owner of a Tanzanian ship is required to maintain its equipment.",owner,3,7,SUBJECT REGULATED,equipment,53,61,EQUIPMENTS,REQUIRED
+703,"The master of a Tanzanian ship must follow subregulation (1) for safety.",master,4,9,SUBJECT REGULATED,subregulation (1),29,46,DOCUMENTS,FOLLOW
+704,"The Corporation manages Sewage Certificates for Tanzanian ships.",The Corporation,0,14,AUTHORITIES,Sewage Certificates,23,40,DOCUMENTS,MANAGES
+705,"A defect discovered on a ship generates immediate inspection activities.",defect,2,7,SPECIFICATION,inspection activities,45,66,ACTIVITIES,GENERATES
+706,"The master must report accidents to the Corporation without delay.",the master,4,13,SUBJECT REGULATED,the Corporation,36,50,AUTHORITIES,REQUIRED
+707,"An owner must comply with Part III requirements concerning equipment.",owner,3,7,SUBJECT REGULATED,Part III requirements,28,49,REQUIREMENTS,COMPLY_WITH
+708,"The Corporation may cancel the Sewage Certificate if data was erroneous.",The Corporation,0,14,AUTHORITIES,the Sewage Certificate,24,43,DOCUMENTS,RESTRICT
+709,"Harbour Masters monitor a ship in port for any sewage discharge.",Harbour Masters,0,14,AUTHORITIES,a ship,24,29,SYSTEM,MONITORS
+710,"A cancelled Sewage Certificate applies to a deficient vessel.",cancelled Sewage Certificate,2,27,DOCUMENTS,a deficient vessel,39,55,SYSTEM,APPLY_TO
+711,"Surveyors carry out examinations under these Regulations.",Surveyors,0,8,AUTHORITIES,examinations,20,32,PROCEDURES,CARRY_OUT
+712,"The Corporation implements penalties for providing false information.",The Corporation,0,14,AUTHORITIES,penalties,25,33,PENALTIES,IMPLEMENT
+713,"A Sewage Certificate is required for every Tanzanian ship.",A Sewage Certificate,0,18,DOCUMENTS,every Tanzanian ship,34,53,SYSTEM,REQUIRED
+714,"No person shall intentionally alter official documentation for sewage.",No person,0,8,SUBJECT REGULATED,official documentation,29,50,DOCUMENTS,RESTRICT
+715,"The master must have valid documents OF the Corporation on board.",the master,4,13,SUBJECT REGULATED,valid documents,23,37,DOCUMENTS,OF
+716,"Harbour Master duties involve controlling sewage discharges in port.",Harbour Master,0,13,AUTHORITIES,sewage discharges,38,55,DISPOSAL,INVOLVE_IN
+717,"Owners are liable for offences under regulation (22).",Owners,0,5,SUBJECT REGULATED,regulation (22),31,45,DOCUMENTS,OF
+718,"The structure of the ship must comply with subregulation (1)(b).",The structure,0,12,SPECIFICATION,subregulation (1)(b),35,55,DOCUMENTS,COMPLY_WITH
+719,"Detention provisions restrict ships that pose harm to the marine environment.",Detention provisions,0,19,DOCUMENTS,ships,29,34,SYSTEM,RESTRICT
+720,"A ship's condition is established by the Corporation's survey.",ship's condition,2,17,SPECIFICATION,the Corporation's survey,36,59,PROCEDURES,ESTABLISHED
+721,"The marine environment is monitored by port authorities.",The marine environment,0,19,REGION,port authorities,37,52,AUTHORITIES,MONITORS
+722,"An altered Sewage Certificate without approval is an offence.",altered Sewage Certificate,3,26,DOCUMENTS,offence,53,59,PENALTIES,OF
+723,"The master implements safety procedures to avoid sewage pollution.",The master,0,9,SUBJECT REGULATED,safety procedures,21,38,PROCEDURES,IMPLEMENT
+724,"Any discovered defect in equipment must be reported by the master.",defect in equipment,11,29,SPECIFICATION,the master,55,64,SUBJECT REGULATED,REQUIRED
+725,"Surveyors manage activities regarding suspected invalid certificates.",Surveyors,0,8,AUTHORITIES,activities,16,25,ACTIVITIES,MANAGES
+726,"Subregulation (2) is established to ensure surrender of certificates.",Subregulation (2),0,16,DOCUMENTS,surrender of certificates,39,63,ACTIVITIES,ESTABLISHED
+727,"Equipment must follow the requirements of Part III of these Regulations.",Equipment,0,8,EQUIPMENTS,Part III,35,41,DOCUMENTS,FOLLOW
+728,"A person who refuses to surrender a suspended Sewage Certificate commits an offence.",A person,0,6,SUBJECT REGULATED,a suspended Sewage Certificate,33,61,DOCUMENTS,OF
+729,"Harbour Masters carry out detention where sewage is discharged illegally.",Harbour Masters,0,14,AUTHORITIES,detention,25,34,ACTIVITIES,CARRY_OUT
+730,"Offences lead to penalties for owners found guilty.",Offences,0,8,ACTIVITIES,penalties,18,26,PENALTIES,GENERATES
+731,"The Corporation has authority OF Sewage Certificate cancellation.",The Corporation,0,14,AUTHORITIES,Sewage Certificate cancellation,30,58,ACTIVITIES,OF
+732,"A master of a ship must comply with subregulation (4)(e).",A master of a ship,0,17,SUBJECT REGULATED,subregulation (4)(e),33,52,DOCUMENTS,COMPLY_WITH
+733,"Owners must ensure the ship remains fit to proceed to sea.",Owners,0,5,SUBJECT REGULATED,the ship,18,25,SYSTEM,REQUIRED
+734,"False information triggers penalties under Part VI provisions.",False information,0,16,SPECIFICATION,penalties,26,34,PENALTIES,GENERATES
+735,"The Corporation monitors compliance with complaint procedures.",The Corporation,0,14,AUTHORITIES,complaint procedures,36,55,PROCEDURES,MONITORS
+736,"The Harbour Master implements local enforcement activities.",The Harbour Master,0,16,AUTHORITIES,local enforcement activities,28,54,ACTIVITIES,IMPLEMENT
+737,"Documents are required if the vessel is in Tanzanian waters.",Documents,0,8,DOCUMENTS,the vessel,27,36,SYSTEM,REQUIRED
+738,"The environment is OF primary concern in sewage regulations.",The environment,0,13,REGION,sewage regulations,36,53,DOCUMENTS,OF
+739,"Subregulation (5) restricts the use of invalid Sewage Certificates.",Subregulation (5),0,16,DOCUMENTS,invalid Sewage Certificates,31,54,DOCUMENTS,RESTRICT
+740,"A fixed platform in Tanzanian waters must follow essential procedures.",A fixed platform,0,15,SYSTEM,essential procedures,45,63,PROCEDURES,FOLLOW
+741,"The harbour master is required to detain ships for sewage violations.",the harbour master,4,18,AUTHORITIES,detain ships,32,43,ACTIVITIES,REQUIRED
+742,"Any incomplete equipment have no approval OF the Corporation.",Any incomplete equipment,0,22,EQUIPMENTS,the Corporation,44,58,AUTHORITIES,OF
+743,"The master must carry out checks after accidents occur.",The master,0,9,SUBJECT REGULATED,checks,20,25,ACTIVITIES,CARRY_OUT
+744,"Surveys manage condition reports on a Tanzanian ship.",Surveys,0,6,PROCEDURES,condition reports,14,30,DOCUMENTS,MANAGES
+745,"The Corporation must comply with subregulation (2) on surrender notices.",The Corporation,0,14,AUTHORITIES,subregulation (2),30,46,DOCUMENTS,COMPLY_WITH
+746,"An accident may generate changes in the structure of the ship.",accident,3,10,ACTIVITIES,the structure of the ship,33,55,SPECIFICATION,GENERATES
+747,"Penalties are established for intentional alteration of Sewage Certificates.",Penalties,0,8,PENALTIES,intentional alteration,25,45,ACTIVITIES,ESTABLISHED
+748,"Harbour Masters restrict discharge of sewage in port waters.",Harbour Masters,0,14,AUTHORITIES,discharge of sewage,23,42,DISPOSAL,RESTRICT
+749,"A deficiency in equipment is required to be reported immediately.",deficiency in equipment,2,24,SPECIFICATION,reported immediately,37,54,ACTIVITIES,REQUIRED
+750,"A person who lends a false Sewage Certificate commits an offence.",A person,0,6,SUBJECT REGULATED,a false Sewage Certificate,21,43,DOCUMENTS,OF
+751,"Tanzanian ships have duties under these Regulations.",Tanzanian ships,0,14,SYSTEM,duties,20,25,REQUIREMENTS,HAVE
+752,"Offences under regulation (22) lead to imprisonment or fines.",Offences,0,8,ACTIVITIES,regulation (22),15,29,DOCUMENTS,OF
+753,"Part V enforcement provisions apply to sewage violations.",Part V enforcement provisions,0,27,DOCUMENTS,sewage violations,39,56,ACTIVITIES,APPLY_TO
+754,"A valid Sewage Certificate is required for a ship's voyage.",A valid Sewage Certificate,0,22,DOCUMENTS,a ship's voyage,42,56,ACTIVITIES,REQUIRED
+755,"The harbour master monitors activities in controlled waters.",the harbour master,0,17,AUTHORITIES,activities,26,35,ACTIVITIES,MONITORS
+756,"Owners must ensure no threat to the marine environment occurs.",Owners,0,5,SUBJECT REGULATED,the marine environment,31,50,REGION,REQUIRED
+757,"Any suspended certificate is restricted from being used again.",suspended certificate,4,23,DOCUMENTS,used again,45,54,ACTIVITIES,RESTRICT
+758,"Subregulation (5) applies to surrender of an expired Sewage Certificate.",Subregulation (5),0,16,DOCUMENTS,an expired Sewage Certificate,32,59,DOCUMENTS,APPLY_TO
+759,"An inspector must carry out investigations if sewage is illegally discharged.",inspector,3,11,AUTHORITIES,investigations,21,34,PROCEDURES,CARRY_OUT
+760,"Owners are subject regulated to ensure equipment remains compliant.",Owners,0,5,SUBJECT REGULATED,equipment,36,44,EQUIPMENTS,REQUIRED
+761,"The harbour authority manages complaints handling under regulation (24).",the harbour authority,0,20,AUTHORITIES,regulation (24),43,57,DOCUMENTS,MANAGES
+762,"Sewage discharge is restricted by Part VI if no valid certificate exists.",Sewage discharge,0,16,DISPOSAL,Part VI,34,39,DOCUMENTS,RESTRICT
+763,"Equipment must comply with design specifications from the Corporation.",Equipment,0,8,EQUIPMENTS,design specifications,26,47,SPECIFICATION,COMPLY_WITH
+764,"False documentation triggers penalties for the master.",False documentation,0,18,DOCUMENTS,penalties,29,37,PENALTIES,GENERATES
+765,"Harbour Masters follow subregulation (1) regarding ship inspections.",Harbour Masters,0,14,AUTHORITIES,subregulation (1),22,39,DOCUMENTS,FOLLOW
+766,"Detaining a ship is an activity OF harbour authorities.",Detaining a ship,0,14,ACTIVITIES,harbour authorities,28,46,AUTHORITIES,OF
+767,"A deficiency in structure must be reported to the Corporation immediately.",deficiency in structure,2,23,SPECIFICATION,the Corporation,43,57,AUTHORITIES,REQUIRED
+768,"The Corporation implements complaint procedures as per the Shipping Agencies Rules.",The Corporation,0,14,AUTHORITIES,complaint procedures,25,44,PROCEDURES,IMPLEMENT
+769,"Sewage discharge in the United Republic region is restricted unless certified.",Sewage discharge,0,16,DISPOSAL,the United Republic region,24,49,REGION,RESTRICT
+770,"Inspections have relevance OF verifying sewage pollution control.",Inspections,0,11,PROCEDURES,sewage pollution control,31,54,POLLUTANT,OF
+771,"The minister is required to refund sums paid under subregulation (7)(c).",the minister,0,10,AUTHORITIES,subregulation (7)(c),45,64,DOCUMENTS,REQUIRED
+772,"Harbour Masters carry out enforcement within Tanzanian waters.",Harbour Masters,0,14,AUTHORITIES,enforcement,25,36,ACTIVITIES,CARRY_OUT
+773,"The environment must have protection OF harmful sewage discharges.",The environment,0,14,REGION,harmful sewage discharges,35,60,DISPOSAL,OF
+774,"A ship condition is established by post-survey approvals.",ship condition,2,15,SPECIFICATION,post-survey approvals,28,48,ACTIVITIES,ESTABLISHED
+775,"Owners must comply with regulation (16) on operational readiness.",Owners,0,5,SUBJECT REGULATED,regulation (16),24,38,DOCUMENTS,COMPLY_WITH
+776,"A master implements measures to prevent unreasonable harm to the environment.",A master,0,6,SUBJECT REGULATED,measures,17,24,ACTIVITIES,IMPLEMENT
+777,"Subregulation (3) restricts modifications to equipment without approval.",Subregulation (3),0,16,DOCUMENTS,modifications to equipment,26,51,EQUIPMENTS,RESTRICT
+778,"Equipment must follow the condition specified in these Regulations.",Equipment,0,8,EQUIPMENTS,the condition specified,24,46,SPECIFICATION,FOLLOW
+779,"Any discovered accident on a Tanzanian ship generates urgent procedures.",discovered accident,4,22,ACTIVITIES,urgent procedures,46,62,PROCEDURES,GENERATES
+780,"Owners are required to keep Sewage Certificates on board.",Owners,0,5,SUBJECT REGULATED,Sewage Certificates,25,42,DOCUMENTS,REQUIRED
+781,"The Harbour Master must monitor compliance with Part V of these Regulations.",The Harbour Master,0,15,AUTHORITIES,Part V of these Regulations,37,63,DOCUMENTS,MONITORS
+782,"Subregulation (6) is established to penalize false certificate usage.",Subregulation (6),0,16,DOCUMENTS,false certificate usage,33,54,DOCUMENTS,ESTABLISHED
+783,"A canceled certificate is restricted from use in Tanzanian ports.",canceled certificate,2,20,DOCUMENTS,Tanzanian ports,45,59,REGION,RESTRICT
+784,"The Corporation applies penalties to owners violating subregulation (4).",The Corporation,0,14,AUTHORITIES,owners,32,37,SUBJECT REGULATED,APPLY_TO
+785,"A Ship in a foreign port must follow subregulation (1)(c) on accidents.",A Ship,0,5,SYSTEM,subregulation (1)(c),30,49,DOCUMENTS,FOLLOW
+786,"Harbour Masters manage detention activities when sewage rules are broken.",Harbour Masters,0,14,AUTHORITIES,detention activities,22,41,ACTIVITIES,MANAGES
+787,"An owner implements repairs after an accident is reported.",An owner,0,6,SUBJECT REGULATED,repairs,17,23,ACTIVITIES,IMPLEMENT
+788,"Any person forging a Sewage Certificate triggers penalties under regulation.",Any person,0,9,SUBJECT REGULATED,a Sewage Certificate,19,37,DOCUMENTS,GENERATES
+789,"The harbour authority is of prime importance for local enforcement.",The harbour authority,0,19,AUTHORITIES,local enforcement,43,60,ACTIVITIES,OF
+790,"Subregulation (4) restricts the discharge of sewage without valid papers.",Subregulation (4),0,16,DOCUMENTS,the discharge of sewage,26,48,DISPOSAL,RESTRICT
+791,"Owners have an obligation to maintain the ship's structure properly.",Owners,0,5,SUBJECT REGULATED,obligation,11,20,REQUIREMENTS,HAVE
+792,"Complaints handling procedures are implemented by the Corporation.",Complaints handling procedures,0,27,PROCEDURES,the Corporation,52,66,AUTHORITIES,IMPLEMENT
+793,"Detention is an activity OF subregulation (1) for certain offences.",Detention,0,9,ACTIVITIES,subregulation (1),24,41,DOCUMENTS,OF
+794,"The harbour master must carry out checks on foreign-flagged ships.",The harbour master,0,17,AUTHORITIES,checks,28,33,ACTIVITIES,CARRY_OUT
+795,"Suspended Sewage Certificates are restricted until re-approval is granted.",Suspended Sewage Certificates,0,25,DOCUMENTS,re-approval,49,58,ACTIVITIES,RESTRICT
+796,"Part VI of these Regulations have provisions for punishing sewage violations.",Part VI of these Regulations,0,25,DOCUMENTS,sewage violations,52,69,ACTIVITIES,HAVE
+797,"Owners must manage ship operations to avoid harming the marine environment.",Owners,0,5,SUBJECT REGULATED,ship operations,16,30,ACTIVITIES,MANAGES
+798,"The harbour authority monitors discharges in offshore terminals.",The harbour authority,0,19,AUTHORITIES,discharges,29,38,DISPOSAL,MONITORS
+799,"Subregulation (7) is required for the Minister to release a detained ship.",Subregulation (7),0,16,DOCUMENTS,the Minister,31,42,AUTHORITIES,REQUIRED
+800,"A surveyor must comply with regulation (18)(2) on board inspection.",A surveyor,0,8,AUTHORITIES,regulation (18)(2),24,42,DOCUMENTS,COMPLY_WITH
+801,"Offences under Part VI implement fines or imprisonment for violators.",Offences,0,8,ACTIVITIES,Part VI,14,19,DOCUMENTS,IMPLEMENT
+802,"Untreated sewage is restricted if the ship is within 12 nautical miles from land.",Untreated sewage,0,16,DISPOSAL,the ship,34,42,SYSTEM,RESTRICT
+803,"The Corporation establishes standards for the rate of discharge.",The Corporation,0,14,AUTHORITIES,standards,26,34,REQUIREMENTS,ESTABLISHED
+804,"A moderate discharge rate must comply with the recommended Standards.",moderate discharge rate,2,24,SPECIFICATION,the recommended Standards,48,71,DOCUMENTS,COMPLY_WITH
+805,"Untreated sewage generates pollution affecting marine waters.",Untreated sewage,0,16,DISPOSAL,pollution,26,35,POLLUTANT,GENERATES
+806,"The ship's draft and breadth are required in the discharge calculation.",the ship's draft and breadth,0,25,SPECIFICATION,the discharge calculation,46,69,PROCEDURES,REQUIRED
+807,"Discharge rate calculations must follow the formula in regulation 3.1.",Discharge rate calculations,0,26,PROCEDURES,regulation 3.1,52,65,DOCUMENTS,FOLLOW
+808,"Crew activities involve controlling sewage discharge beyond 12 nautical miles.",Crew activities,0,14,ACTIVITIES,sewage discharge,32,48,DISPOSAL,INVOLVE_IN
+809,"The Corporation monitors compliance with discharge standards under section 1.2.",The Corporation,0,14,AUTHORITIES,discharge standards,33,51,REQUIREMENTS,MONITORS
+810,"The recommended Standards are of IMO resolution MEPC.157(55).",The recommended Standards,0,21,DOCUMENTS,IMO resolution MEPC.157(55),30,58,DOCUMENTS,OF
+811,"Vessel operators must restrict untreated sewage when traveling slower than 4 knots.",Vessel operators,0,15,SUBJECT REGULATED,untreated sewage,31,47,DISPOSAL,RESTRICT
+812,"Draft and breadth values are established to finalize the DRmax formula.",Draft and breadth values,0,23,SPECIFICATION,DRmax formula,53,65,SPECIFICATION,ESTABLISHED
+813,"Holding tanks have capacity requirements for sewage storage.",Holding tanks,0,12,EQUIPMENTS,capacity requirements,18,38,REQUIREMENTS,HAVE
+814,"The Corporation implements approvals for the moderate discharge rate.",The Corporation,0,14,AUTHORITIES,approvals,25,33,ACTIVITIES,IMPLEMENT
+815,"The speed factor in knots applies to the permissible discharge calculation.",The speed factor,4,18,SPECIFICATION,permissible discharge calculation,45,75,PROCEDURES,APPLY_TO
+816,"A type approved sewage treatment plant is required under regulation 5(1)(ii).",A type approved sewage treatment plant,0,36,EQUIPMENTS,regulation 5(1)(ii),55,73,DOCUMENTS,REQUIRED
+817,"The discharge formula is of key importance for compliance checks.",The discharge formula,0,19,SPECIFICATION,compliance checks,52,68,PROCEDURES,OF
+818,"Untreated sewage must comply with subregulation 1.1 when stored in holding tanks.",Untreated sewage,0,16,DISPOSAL,subregulation 1.1,32,49,DOCUMENTS,COMPLY_WITH
+819,"Any mixing action in the ship's wake generates additional dilution benefits.",mixing action,4,16,ACTIVITIES,additional dilution benefits,41,67,SPECIFICATION,GENERATES
+820,"The Corporation has authority OF discharge approvals under 4.1.",The Corporation,0,14,AUTHORITIES,discharge approvals,30,48,ACTIVITIES,OF
+821,"Sewage not comminuted or disinfected is restricted in territorial waters.",Sewage not comminuted or disinfected,0,32,DISPOSAL,territorial waters,59,76,REGION,RESTRICT
+822,"Crew members carry out monitoring of holding tank levels.",Crew members,0,10,SUBJECT REGULATED,monitoring,21,30,ACTIVITIES,CARRY_OUT
+823,"The moderate discharge rate is established for environmental protection.",The moderate discharge rate,0,24,SPECIFICATION,environmental protection,48,70,ACTIVITIES,ESTABLISHED
+824,"A ship's speed must follow the condition of being not less than 4 knots.",A ship's speed,0,14,SPECIFICATION,not less than 4 knots,52,72,SPECIFICATION,FOLLOW
+825,"Untreated sewage systems generate disposal needs beyond 12 miles offshore.",Untreated sewage systems,0,22,SYSTEM,disposal needs,32,45,DISPOSAL,GENERATES
+826,"The maximum permissible discharge rate has no effect OF greywater dilution.",The maximum permissible discharge rate,0,33,SPECIFICATION,greywater dilution,54,72,ACTIVITIES,OF
+827,"Ship operators are required to ensure discharge does not exceed 20% above DRmax hourly.",Ship operators,0,13,SUBJECT REGULATED,discharge,36,44,DISPOSAL,REQUIRED
+828,"Regulation 3.2 restricts any discharge rate measured beyond 24 hours from exceeding limits.",Regulation 3.2,0,14,DOCUMENTS,discharge rate,27,40,SPECIFICATION,RESTRICT
+829,"Part III of these Regulations manages sewage discharge from passenger ships.",Part III of these Regulations,0,25,DOCUMENTS,sewage discharge,34,50,DISPOSAL,MANAGES
+830,"The ship's draft must comply with the assigned summer draft in load line rules.",The ship's draft,0,15,SPECIFICATION,load line rules,66,80,DOCUMENTS,COMPLY_WITH
+831,"Reduced speed might generate lower permissible discharge rates.",Reduced speed,0,13,SPECIFICATION,lower permissible discharge rates,25,58,SPECIFICATION,GENERATES
+832,"The Corporation must monitor compliance with regulation 5(1)(iii).",The Corporation,0,14,AUTHORITIES,regulation 5(1)(iii),36,55,DOCUMENTS,MONITORS
+833,"A ship en route must follow the method of calculation approved by the Corporation.",A ship en route,0,13,SYSTEM,method of calculation,24,44,PROCEDURES,FOLLOW
+834,"Draft (m) and Breadth (m) values are required for DRmax computations.",Draft (m) and Breadth (m) values,0,29,SPECIFICATION,DRmax computations,54,71,SPECIFICATION,REQUIRED
+835,"The crew carry out checks on the speed and discharge correlation.",The crew,0,7,SUBJECT REGULATED,checks,18,23,ACTIVITIES,CARRY_OUT
+836,"Untreated sewage is of higher concern for the marine environment.",Untreated sewage,0,16,DISPOSAL,the marine environment,38,59,REGION,OF
+837,"Part III remains established to ensure the holding tank criteria.",Part III,0,6,DOCUMENTS,holding tank criteria,39,60,REQUIREMENTS,ESTABLISHED
+838,"A ship's draft must not exceed the condition specified in subregulation 5.1.",A ship's draft,0,15,SPECIFICATION,subregulation 5.1,55,73,DOCUMENTS,RESTRICT
+839,"Livestock carriers must comply with discharge standards at 4 knots or above.",Livestock carriers,0,16,SYSTEM,discharge standards,33,51,REQUIREMENTS,COMPLY_WITH
+840,"The Corporation implements the method for calibrating pumps on holding tanks.",The Corporation,0,14,AUTHORITIES,the method for calibrating pumps,26,59,PROCEDURES,IMPLEMENT
+841,"Discharge pipes have to meet the flange dimension guidelines under the Second Schedule.",Discharge pipes,0,15,EQUIPMENTS,the Second Schedule,67,85,DOCUMENTS,HAVE
+842,"The swirl mixing in the ship's wake generates additional environmental protection.",The swirl mixing,0,16,ACTIVITIES,additional environmental protection,37,70,ACTIVITIES,GENERATES
+843,"Regulation 7(1) is established for standard dimensions of flanges.",Regulation 7(1),0,14,DOCUMENTS,standard dimensions of flanges,31,60,SPECIFICATION,ESTABLISHED
+844,"Flange thickness must follow a service pressure of 600 kilopascal.",Flange thickness,0,15,SPECIFICATION,a service pressure of 600 kilopascal,37,73,SPECIFICATION,FOLLOW
+845,"A ship with moulded depth under 5 metres has a smaller discharge connection diameter.",a ship with moulded depth,2,26,SYSTEM,a smaller discharge connection diameter,47,85,SPECIFICATION,HAVE
+846,"The Third Schedule applies to the Sewage Pollution Prevention Certificate format.",The Third Schedule,0,17,DOCUMENTS,the Sewage Pollution Prevention Certificate format,31,72,DOCUMENTS,APPLY_TO
+847,"New passenger ships must comply with specific sewage discharge standards.",New passenger ships,0,19,SYSTEM,sewage discharge standards,41,65,REQUIREMENTS,COMPLY_WITH
+848,"The recommended Standards manage the maximum discharge at higher speeds.",The recommended Standards,0,21,DOCUMENTS,maximum discharge,36,52,SPECIFICATION,MANAGES
+849,"Crew implement procedures for calculating the permissible discharge rate.",Crew,0,3,SUBJECT REGULATED,procedures for calculating,12,37,PROCEDURES,IMPLEMENT
+850,"Breadth (m) and speed (knots) data generate the final DRmax limit.",Breadth (m) and speed (knots) data,0,31,SPECIFICATION,the final DRmax limit,41,60,SPECIFICATION,GENERATES
+851,"An approved moderate rate is required for holding tanks with untreated sewage.",An approved moderate rate,0,23,SPECIFICATION,holding tanks,45,58,EQUIPMENTS,REQUIRED
+852,"According to 3.2, discharge rate is restricted if it exceeds 20 percent hourly.",discharge rate,13,27,SPECIFICATION,20 percent hourly,60,77,SPECIFICATION,RESTRICT
+853,"Ships in compliance generate fewer pollution threats to coastal regions.",Ships in compliance,0,17,SYSTEM,fewer pollution threats,28,49,POLLUTANT,GENERATES
+854,"The table in regulation 4.2 is of speeds and drafts for discharge rates.",The table in regulation 4.2,0,24,DOCUMENTS,speeds and drafts,31,47,SPECIFICATION,OF
+855,"Sewage discharge below 12 miles from land must follow the holding tank route.",Sewage discharge,0,16,DISPOSAL,holding tank route,52,69,PROCEDURES,FOLLOW
+856,"Crew activities have direct relevance OF preventing sewage contamination.",Crew activities,0,14,ACTIVITIES,preventing sewage contamination,33,62,POLLUTANT,OF
+857,"The Corporation monitors correct usage of Standard Dimensions of Flanges.",The Corporation,0,14,AUTHORITIES,Standard Dimensions of Flanges,34,63,DOCUMENTS,MONITORS
+858,"Any pump calibration is required to match permissible discharge at 4 knots.",pump calibration,4,19,SPECIFICATION,permissible discharge,41,61,SPECIFICATION,REQUIRED
+859,"The schedule under 5.2 restricts ships that fail to reduce actual discharge rate.",The schedule under 5.2,0,20,DOCUMENTS,ships,31,36,SYSTEM,RESTRICT
+860,"An operator must manage sewage discharge within the recommended range.",An operator,0,10,SUBJECT REGULATED,sewage discharge,22,38,DISPOSAL,MANAGES
+861,"Subregulation 1.3 is established to exclude greywater from sewage calculations.",Subregulation 1.3,0,16,DOCUMENTS,greywater,43,52,POLLUTANT,ESTABLISHED
+862,"Untreated sewage must not exceed the rate validated by the Corporation.",Untreated sewage,0,16,DISPOSAL,the rate validated by the Corporation,34,70,SPECIFICATION,RESTRICT
+863,"Crew carry out operational checks for sewage ejection at sea.",Crew,0,3,SUBJECT REGULATED,operational checks,14,30,ACTIVITIES,CARRY_OUT
+864,"Requirements for moderate discharge are established in subregulation 1.2.",Requirements for moderate discharge,0,31,REQUIREMENTS,subregulation 1.2,54,71,DOCUMENTS,ESTABLISHED
+865,"The discharge rate formula is of special importance to certain passenger ships.",The discharge rate formula,0,24,SPECIFICATION,certain passenger ships,54,77,SYSTEM,OF
+866,"Ships must comply with the method stated in the approval certificate.",Ships,0,4,SYSTEM,the method stated,20,37,PROCEDURES,COMPLY_WITH
+867,"Disposal of untreated sewage is restricted unless the vessel meets drafting standards.",Disposal of untreated sewage,0,25,DISPOSAL,the vessel,44,53,SYSTEM,RESTRICT
+868,"High discharge requirements manage large passenger ship sewage volumes.",High discharge requirements,0,25,REQUIREMENTS,large passenger ship sewage volumes,34,71,DISPOSAL,MANAGES
+869,"Regulation 5(1)(iii) has an impact OF specifying the 12 nautical miles rule.",Regulation 5(1)(iii),0,19,DOCUMENTS,the 12 nautical miles rule,40,64,SPECIFICATION,OF
+870,"Untreated sewage from livestock carriers must follow the same standard as passenger ships.",Untreated sewage,0,16,DISPOSAL,the same standard as passenger ships,49,86,REQUIREMENTS,FOLLOW
+871,"Crew activities generate daily logs for sewage discharge calculations.",Crew activities,0,14,ACTIVITIES,daily logs,25,34,DOCUMENTS,GENERATES
+872,"The Corporation must comply with the recommended Standards for discharge approval.",The Corporation,0,14,AUTHORITIES,the recommended Standards,30,53,DOCUMENTS,COMPLY_WITH
+873,"Sewage discharge near the nearest land is restricted under subregulation 1.1.",Sewage discharge,0,16,DISPOSAL,subregulation 1.1,53,70,DOCUMENTS,RESTRICT
+874,"A high service speed is of crucial importance for lowering discharge concentration.",A high service speed,0,19,SPECIFICATION,discharge concentration,57,78,SPECIFICATION,OF
+875,"Ship operators must manage holding tank usage to avoid immediate discharge.",Ship operators,0,13,SUBJECT REGULATED,holding tank usage,24,41,EQUIPMENTS,MANAGES
+876,"Discharge measurements are required to confirm compliance over a 24-hour period.",Discharge measurements,0,20,SPECIFICATION,compliance,49,59,REQUIREMENTS,REQUIRED
+877,"The crew must implement record-keeping for sewage disposal in logbooks.",The crew,0,7,SUBJECT REGULATED,record-keeping,18,31,ACTIVITIES,IMPLEMENT
+878,"TASAC monitors implementation of maximum discharge rates for passenger ships.",TASAC,0,4,AUTHORITIES,maximum discharge rates,26,48,SPECIFICATION,MONITORS
+879,"Compliance with DRmax is established for voyages over 24 hours.",Compliance with DRmax,0,20,REQUIREMENTS,voyages over 24 hours,37,58,ACTIVITIES,ESTABLISHED
+880,"Crew must follow guidelines in 1.3 to keep sewage untreated only beyond 12 miles.",Crew,0,3,SUBJECT REGULATED,guidelines in 1.3,14,30,DOCUMENTS,FOLLOW
+882,"The maximum summer draft must comply with the Merchant Shipping (Load Line) Regulations.",The maximum summer draft,0,23,SPECIFICATION,the Merchant Shipping (Load Line) Regulations,44,86,DOCUMENTS,COMPLY_WITH
+883,"A ship's dimension data generates the permissible discharge table in 4.2.",A ship's dimension data,0,22,SPECIFICATION,the permissible discharge table in 4.2,33,72,DOCUMENTS,GENERATES
+884,"Crew must carry out verification if speed is below 4 knots before discharging sewage.",Crew,0,3,SUBJECT REGULATED,verification,14,26,PROCEDURES,CARRY_OUT
+885,"High discharge needs are restricted for large passenger vessels under these Standards.",High discharge needs,0,19,SPECIFICATION,large passenger vessels,36,58,SYSTEM,RESTRICT
+886,"The swirl effect in the ship's wake is of significance to sewage mixing.",The swirl effect in the ship's wake,0,32,SPECIFICATION,sewage mixing,55,67,DISPOSAL,OF
+887,"Untreated sewage must follow a moderate rate of discharge if beyond 12 miles.",Untreated sewage,0,16,DISPOSAL,a moderate rate of discharge,27,51,SPECIFICATION,FOLLOW
+888,"Subregulation 1.2 implements stricter conditions for passenger ship discharges.",Subregulation 1.2,0,16,DOCUMENTS,stricter conditions,29,47,REQUIREMENTS,IMPLEMENT
+889,"Crew activities involve ensuring the ship proceeds at not less than 4 knots.",Crew activities,0,14,ACTIVITIES,the ship,32,40,SYSTEM,INVOLVE_IN
+890,"Any pump used for untreated sewage disposal must meet calibration requirements.",pump,4,7,EQUIPMENTS,calibration requirements,47,69,REQUIREMENTS,HAVE
+891,"Untreated sewage is restricted unless the discharge rate is approved by the Corporation.",Untreated sewage,0,16,DISPOSAL,the discharge rate,35,52,SPECIFICATION,RESTRICT
+892,"The recommended standard in 3.1 applies to calculation over a 24-hour period.",The recommended standard in 3.1,0,29,DOCUMENTS,calculation over a 24-hour period,47,78,ACTIVITIES,APPLY_TO
+893,"A moderate discharge approach regulates the release of untreated sewage in transit.",A moderate discharge approach,0,27,PROCEDURES,untreated sewage in transit,49,74,DISPOSAL,REGULATES
+894,"Holding tank capacity is of vital concern for cargo vessels carrying livestock.",Holding tank capacity,0,20,EQUIPMENTS,cargo vessels carrying livestock,43,73,SYSTEM,OF
+895,"The Minister monitors compliance with draft and breadth approvals under 4.1.",The Minister,0,10,AUTHORITIES,draft and breadth approvals,30,56,SPECIFICATION,MONITORS
+896,"Speed under 4 knots is restricted for sewage discharge under Part III.",Speed under 4 knots,0,18,SPECIFICATION,sewage discharge,37,53,DISPOSAL,RESTRICT
+897,"Documented swirl mixing calculations are required if the ship uses partial dilution.",Documented swirl mixing calculations,0,33,DOCUMENTS,the ship,47,55,SYSTEM,REQUIRED
+898,"Part III manages the disposal of untreated sewage beyond 12 nautical miles.",Part III,0,6,DOCUMENTS,untreated sewage,26,42,DISPOSAL,MANAGES
+899,"Greywater is not part OF the sewage discharge rate calculation.",Greywater,0,8,POLLUTANT,the sewage discharge rate calculation,21,57,SPECIFICATION,OF
+900,"Regulation 7(1) is required for the standard dimensions of flanges approvals.",Regulation 7(1),0,14,DOCUMENTS,the standard dimensions of flanges approvals,31,74,ACTIVITIES,REQUIRED
+901,"Crew must carry out calculations to ensure compliance with maximum permissible rates.",Crew,0,3,SUBJECT REGULATED,calculations,14,26,PROCEDURES,CARRY_OUT
+902,"A Sewage Certificate is required for any ship carrying persons.",Sewage Certificate,2,19,DOCUMENTS,ship,40,44,SYSTEM,REQUIRED
+903,"The ship's IMO number is established on the Certificate form.",ship's IMO number,4,20,SPECIFICATION,Certificate form,42,58,DOCUMENTS,ESTABLISHED
+904,"A sewage treatment plant is required under these Regulations.",sewage treatment plant,2,24,EQUIPMENTS,these Regulations,39,56,DOCUMENTS,REQUIRED
+905,"The comminuter must comply with standards set by the Corporation.",comminuter,4,14,EQUIPMENTS,standards,29,37,REQUIREMENTS,COMPLY_WITH
+906,"The holding tank have a total capacity to retain sewage onboard.",holding tank,4,16,EQUIPMENTS,a total capacity,23,38,SPECIFICATION,HAVE
+907,"The discharge pipeline is restricted from direct overboard release.",discharge pipeline,4,22,EQUIPMENTS,direct overboard release,39,63,DISPOSAL,RESTRICT
+908,"Regulation 9 procedures apply to the survey of a ship's equipment.",Regulation 9 procedures,0,21,PROCEDURES,survey of a ship's equipment,34,61,ACTIVITIES,APPLY_TO
+909,"The Corporation manages all sewage compliance certifications.",The Corporation,0,14,AUTHORITIES,sewage compliance certifications,25,54,DOCUMENTS,MANAGES
+910,"A valid Certificate is of crucial importance for passenger-carrying vessels.",A valid Certificate,0,16,DOCUMENTS,passenger-carrying vessels,48,74,SYSTEM,OF
+911,"The sewage treatment plant is certified by the Corporation.",sewage treatment plant,4,26,EQUIPMENTS,the Corporation,43,57,AUTHORITIES,COMPLY_WITH
+912,"Resolution MEPC.227(64) regulates effluent standards for sewage treatment.",Resolution MEPC.227(64),0,21,DOCUMENTS,effluent standards,33,50,REQUIREMENTS,REGULATES
+913,"A barge that has no propulsion systems is exempt from sewage requirements.",barge,2,6,SYSTEM,sewage requirements,56,74,REQUIREMENTS,RESTRICT
+914,"The name of the manufacturer is established on the Certificate record.",name of the manufacturer,4,27,SPECIFICATION,Certificate record,49,66,DOCUMENTS,ESTABLISHED
+915,"A discharge pipeline must follow standard shore connection guidelines.",discharge pipeline,2,20,EQUIPMENTS,standard shore connection guidelines,39,71,SPECIFICATION,FOLLOW
+916,"An Exemption Certificate is required for an unmanned non-self-propelled barge.",Exemption Certificate,2,20,DOCUMENTS,unmanned non-self-propelled barge,43,75,SYSTEM,REQUIRED
+917,"Living animals produce sewage that is restricted by these Regulations.",Living animals,0,13,SYSTEM,sewage,31,37,DISPOSAL,RESTRICT
+918,"Any barge with no sewage system is exempt from survey activities.",barge,4,8,SYSTEM,survey activities,44,60,ACTIVITIES,RESTRICT
+919,"Mechanical propulsion is not involved in an unmanned barge's design.",Mechanical propulsion,0,19,SPECIFICATION,unmanned barge's design,38,61,SPECIFICATION,INVOLVE_IN
+920,"The sewage treatment plant must implement the effluent performance guidelines.",The sewage treatment plant,0,24,EQUIPMENTS,effluent performance guidelines,45,74,REQUIREMENTS,IMPLEMENT
+921,"A comminuter is of significance to disinfection standards onboard.",comminuter,2,12,EQUIPMENTS,disinfection standards,31,52,REQUIREMENTS,OF
+922,"The capacity of the holding tank is established through vessel survey.",capacity of the holding tank,4,29,SPECIFICATION,vessel survey,53,65,PROCEDURES,ESTABLISHED
+923,"The Corporation monitors the condition of equipment on the surveyed ship.",The Corporation,0,14,AUTHORITIES,equipment,36,45,EQUIPMENTS,MONITORS
+924,"An authorized official carries out inspections for Sewage Certificates.",authorized official,3,20,SUBJECT REGULATED,inspections,32,43,ACTIVITIES,CARRY_OUT
+925,"These Regulations manage standards for sewage discharge pipelines.",These Regulations,0,16,DOCUMENTS,standards for sewage discharge pipelines,24,62,REQUIREMENTS,MANAGES
+926,"A ship with a certified holding tank must comply with effluent rules.",ship,2,5,SYSTEM,effluent rules,49,62,REQUIREMENTS,COMPLY_WITH
+927,"The name of the manufacturer is required when listing the type of sewage plant.",name of the manufacturer,4,27,SPECIFICATION,type of sewage plant,52,70,SPECIFICATION,REQUIRED
+928,"The barge is restricted from carrying sewage for transport.",barge,4,8,SYSTEM,carrying sewage,20,34,DISPOSAL,RESTRICT
+930,"An official must have authority OF endorsement on the Certificate.",official,3,10,SUBJECT REGULATED,endorsement on the Certificate,25,51,DOCUMENTS,OF
+931,"A ship's arrangements must follow these Regulations for sewage disposal.",ship's arrangements,2,19,SPECIFICATION,these Regulations,37,54,DOCUMENTS,FOLLOW
+932,"Compliance with regulation 9 is required for certificate validity.",Compliance with regulation 9,0,24,REQUIREMENTS,certificate validity,40,58,SPECIFICATION,REQUIRED
+933,"A discharge pipeline must implement a standard shore connection flange.",discharge pipeline,2,20,EQUIPMENTS,standard shore connection flange,36,67,SPECIFICATION,IMPLEMENT
+934,"The holding tank has capacity OF total sewage retention for the voyage.",The holding tank,0,14,EQUIPMENTS,total sewage retention,28,49,DISPOSAL,OF
+935,"Regulation 12(1) applies to Sewage Pollution Prevention Certificate issuance.",Regulation 12(1),0,16,DOCUMENTS,Sewage Pollution Prevention Certificate issuance,28,71,DOCUMENTS,APPLY_TO
+936,"A recognized organization monitors compliance with sewage discharge standards.",A recognized organization,2,24,AUTHORITIES,sewage discharge standards,47,71,REQUIREMENTS,MONITORS
+937,"The ship must restrict untreated sewage if no holding tank is onboard.",The ship,0,7,SYSTEM,untreated sewage,22,38,DISPOSAL,RESTRICT
+938,"A person signing the Certificate must carry out the official endorsement.",A person signing the Certificate,2,30,SUBJECT REGULATED,official endorsement,46,65,ACTIVITIES,CARRY_OUT
+939,"A sewage treatment plant is of central importance to preventing pollution.",sewage treatment plant,2,24,EQUIPMENTS,preventing pollution,50,68,POLLUTANT,OF
+940,"Discharges from comminuters are managed by the effluent guidelines of MEPC.2(VI).",Discharges from comminuters,0,23,DISPOSAL,effluent guidelines of MEPC.2(VI),36,70,DOCUMENTS,MANAGES
+941,"The barge is exempt from certification if it has no arrangement for sewage.",barge,4,8,SYSTEM,certification,20,33,DOCUMENTS,RESTRICT
+942,"Holding tanks must comply with the capacity specified by the Corporation.",Holding tanks,0,12,EQUIPMENTS,the capacity specified,31,50,SPECIFICATION,COMPLY_WITH
+943,"The authorized official implements issuance procedures for a new Certificate.",The authorized official,0,19,SUBJECT REGULATED,issuance procedures,30,48,PROCEDURES,IMPLEMENT
+944,"Regulation 9 is of significance to periodic surveys of ships.",Regulation 9,0,12,DOCUMENTS,periodic surveys of ships,30,53,PROCEDURES,OF
+945,"Passenger ships have a capacity to carry persons as indicated in the Certificate.",Passenger ships,0,15,SYSTEM,a capacity to carry persons,22,47,SPECIFICATION,HAVE
+946,"The mechanical comminuter must follow manufacturer instructions.",mechanical comminuter,4,24,EQUIPMENTS,manufacturer instructions,35,58,REQUIREMENTS,FOLLOW
+947,"Effluent standards are established by resolution MEPC.159(55).",Effluent standards,0,16,REQUIREMENTS,resolution MEPC.159(55),38,62,DOCUMENTS,ESTABLISHED
+948,"The presence of living animals on board is restricted for exempt barges.",presence of living animals on board,4,36,SPECIFICATION,exempt barges,61,73,SYSTEM,RESTRICT
+949,"A completed survey must generate the Certificate completion date.",A completed survey,2,18,PROCEDURES,Certificate completion date,34,59,SPECIFICATION,GENERATES
+950,"The ship's arrangements are required to remain intact as per the certificate.",ship's arrangements,4,21,SPECIFICATION,the certificate,57,69,DOCUMENTS,REQUIRED
+951,"Disinfection standards apply to sewage treated by a comminuter.",Disinfection standards,0,20,REQUIREMENTS,sewage,37,43,DISPOSAL,APPLY_TO
+952,"The Corporation manages date endorsements for extending certificate validity.",The Corporation,0,14,AUTHORITIES,date endorsements,23,39,SPECIFICATION,MANAGES
+953,"A barge with no living animals is not involved in sewage production.",barge,2,6,SYSTEM,sewage production,46,63,DISPOSAL,INVOLVE_IN
+955,"The official stamp is required on the Sewage Certificate for validity.",official stamp,4,17,SPECIFICATION,the Sewage Certificate,31,50,DOCUMENTS,REQUIRED
+956,"Effluent guidelines from resolution MEPC.2(VI) regulate sewage treatment plants.",Effluent guidelines from resolution MEPC.2(VI),0,44,DOCUMENTS,sewage treatment plants,54,77,EQUIPMENTS,REGULATES
+957,"The ship's name must comply with the distinct number and letters on file.",ship's name,4,15,SPECIFICATION,distinct number and letters,37,64,SPECIFICATION,COMPLY_WITH
+958,"The Exemption Certificate is of relevance to unmanned barge documentation.",Exemption Certificate,0,18,DOCUMENTS,unmanned barge documentation,40,66,DOCUMENTS,OF
+959,"Any damage to the sewage system is required to be reported on the Certificate.",damage to the sewage system,4,27,SPECIFICATION,the Certificate,51,64,DOCUMENTS,REQUIRED
+960,"Corporation guidelines restrict direct discharge from the holding tank.",Corporation guidelines,0,20,DOCUMENTS,direct discharge,29,44,DISPOSAL,RESTRICT
+961,"A barge must follow regulation 12(2) to maintain exemption status.",barge,2,6,SYSTEM,regulation 12(2),18,33,DOCUMENTS,FOLLOW
+962,"The authorized person carries out endorsement for certificate extension.",The authorized person,0,19,SUBJECT REGULATED,endorsement,30,41,ACTIVITIES,CARRY_OUT
+963,"Sewage pipelines have to meet specifics for the standard shore connection.",Sewage pipelines,0,15,EQUIPMENTS,specifics for the standard shore connection,28,66,SPECIFICATION,HAVE
+964,"Regulation 9(1) is established to ensure ship compliance with requirements.",Regulation 9(1),0,14,DOCUMENTS,ship compliance with requirements,31,61,REQUIREMENTS,ESTABLISHED
+965,"Comminuter details must comply with the name of manufacturer declared.",Comminuter details,0,17,SPECIFICATION,the name of manufacturer,44,66,SPECIFICATION,COMPLY_WITH
+966,"The port of registry is of significance for the validity of certificates.",port of registry,4,19,SPECIFICATION,validity of certificates,43,65,SPECIFICATION,OF
+967,"A barge must have no arrangements that produce sewage under these Regulations.",barge,2,6,SYSTEM,arrangements that produce sewage,20,51,DISPOSAL,HAVE
+968,"Standard shore connection design is implemented to facilitate discharge ashore.",Standard shore connection design,0,30,SPECIFICATION,discharge ashore,59,74,DISPOSAL,IMPLEMENT
+969,"The sewage holding tank is monitored by the Corporation for compliance.",sewage holding tank,4,23,EQUIPMENTS,the Corporation,28,42,AUTHORITIES,MONITORS
+970,"A certificate remains valid if the barge has no mechanical propulsion system.",certificate,2,12,DOCUMENTS,barge,44,48,SYSTEM,RESTRICT
+971,"The authorized official must manage the renewal endorsement procedures.",The authorized official,0,19,SUBJECT REGULATED,renewal endorsement procedures,30,57,PROCEDURES,MANAGES
+972,"Name of manufacturer is established in the Sewage Certificate records.",Name of manufacturer,0,18,SPECIFICATION,Sewage Certificate records,36,61,DOCUMENTS,ESTABLISHED
+973,"A mechanical means of propulsion is restricted for an unmanned barge certificate.",mechanical means of propulsion,2,29,SPECIFICATION,unmanned barge certificate,51,76,DOCUMENTS,RESTRICT
+974,"Effluent standards must follow resolution MEPC.159(55) and MEPC.227(64).",Effluent standards,0,16,REQUIREMENTS,resolution MEPC.159(55) and MEPC.227(64),31,70,DOCUMENTS,FOLLOW
+975,"Survey completion date is of crucial importance in certificate issuance.",Survey completion date,0,21,SPECIFICATION,certificate issuance,43,63,DOCUMENTS,OF
+976,"The corporation official carries out stamping activities on the certificate.",The corporation official,0,22,AUTHORITIES,stamping activities,34,52,ACTIVITIES,CARRY_OUT
+977,"Sewage discharge is restricted unless the barge has a standard pipeline.",Sewage discharge,0,15,DISPOSAL,barge,44,48,SYSTEM,RESTRICT
+978,"An endorsement is applied to extend a certificate's validity period.",endorsement,2,13,ACTIVITIES,certificate's validity period,35,60,SPECIFICATION,APPLY_TO
+979,"The barge is not used for holding sewage if it lacks a tank arrangement.",barge,4,8,SYSTEM,holding sewage,20,34,DISPOSAL,RESTRICT
+980,"Performance tests for sewage treatment plants are implemented by guidelines.",Performance tests,0,17,PROCEDURES,guidelines,56,65,DOCUMENTS,IMPLEMENT
+981,"A comminuter and disinfecting system must generate effluent that meets standards.",comminuter and disinfecting system,2,32,EQUIPMENTS,effluent,46,53,POLLUTANT,GENERATES
+982,"The total capacity of the holding tank is required in the certificate data.",total capacity of the holding tank,2,33,SPECIFICATION,certificate data,58,72,DOCUMENTS,REQUIRED
+983,"A recognized surveyor must have the authority OF signing off the Sewage Certificate.",A recognized surveyor,2,21,AUTHORITIES,signing off the Sewage Certificate,40,71,DOCUMENTS,OF
+984,"Revisions to sewage systems are restricted unless the Corporation approves them.",Revisions to sewage systems,0,25,EQUIPMENTS,the Corporation,45,59,AUTHORITIES,RESTRICT
+985,"The effluent standard is established through resolution MEPC.2(VI).",effluent standard,4,20,REQUIREMENTS,resolution MEPC.2(VI),36,58,DOCUMENTS,ESTABLISHED
+986,"A discharge pipeline is of central importance to the survey outcomes.",discharge pipeline,2,20,EQUIPMENTS,the survey outcomes,46,64,PROCEDURES,OF
+987,"Comminuter type must comply with the appropriate resolution for test performance.",Comminuter type,0,14,SPECIFICATION,the appropriate resolution,36,60,DOCUMENTS,COMPLY_WITH
+988,"The barge has no persons onboard and is exempt from sewage disposal obligations.",The barge,0,8,SYSTEM,sewage disposal obligations,50,75,DISPOSAL,RESTRICT
+989,"An Exemption Certificate is of particular relevance to unmanned barges with no sewage.",Exemption Certificate,2,20,DOCUMENTS,unmanned barges with no sewage,42,70,SYSTEM,OF
+990,"Type of sewage treatment is required to be indicated in the Certificate details.",Type of sewage treatment,0,23,SPECIFICATION,Certificate details,53,71,DOCUMENTS,REQUIRED
+991,"A discharge pipeline must generate flow to the reception facility onshore.",discharge pipeline,2,20,EQUIPMENTS,flow,31,35,ACTIVITIES,GENERATES
+992,"Mechanically propelled ships must follow standard sewage regulations.",Mechanically propelled ships,0,26,SYSTEM,standard sewage regulations,44,69,DOCUMENTS,FOLLOW
+993,"The signature of an authorized official is established in the Certificate record.",signature of an authorized official,4,34,SPECIFICATION,Certificate record,55,72,DOCUMENTS,ESTABLISHED
+994,"A sewage plant's name of manufacturer is monitored by the Corporation.",sewage plant's name of manufacturer,2,34,SPECIFICATION,the Corporation,53,67,AUTHORITIES,MONITORS
+995,"The barge's capacity for persons is restricted under the Exemption Certificate.",barge's capacity for persons,2,25,SPECIFICATION,Exemption Certificate,48,67,DOCUMENTS,RESTRICT
+996,"An official inspector must carry out the final endorsement for certificate extension.",official inspector,2,18,SUBJECT REGULATED,final endorsement,30,46,ACTIVITIES,CARRY_OUT
+997,"The sewage holding tank is of significant value to meet effluent guidelines.",sewage holding tank,2,21,EQUIPMENTS,effluent guidelines,51,68,REQUIREMENTS,OF
+998,"Performance tests are required for sewage plants under resolution MEPC.159(55).",Performance tests,0,16,PROCEDURES,sewage plants,31,43,EQUIPMENTS,REQUIRED
+999,"Corporation standards manage the use of a discharge pipeline for reception facilities.",Corporation standards,0,19,DOCUMENTS,discharge pipeline for reception facilities,35,78,EQUIPMENTS,MANAGES
+1000,"Regulation 12(2) is established for the Sewage Pollution Prevention Exemption Certificate.",Regulation 12(2),0,15,DOCUMENTS,Sewage Pollution Prevention Exemption Certificate,33,78,DOCUMENTS,ESTABLISHED
+1001,"An unmanned barge must not generate sewage if no tank is installed.",unmanned barge,2,15,SYSTEM,sewage,34,39,DISPOSAL,GENERATES
+1002,"A recognized authority monitors the advanced comminuter's performance.",A recognized authority,2,22,AUTHORITIES,advanced comminuter's performance,37,68,ACTIVITIES,MONITORS
+1003,"A discharge pipeline must apply to ships with standard shore connections.",discharge pipeline,2,20,EQUIPMENTS,ships,35,39,SYSTEM,APPLY_TO
+1004,"Capacity in cubic meters is required for the holding tank's documentation.",Capacity in cubic meters,0,23,SPECIFICATION,the holding tank's documentation,43,73,DOCUMENTS,REQUIRED
+1005,"Comminuters and holding tanks must follow the effluent performance guidelines set by the Corporation.",Comminuters and holding tanks,0,28,EQUIPMENTS,effluent performance guidelines set by the Corporation,44,93,REQUIREMENTS,FOLLOW
+1006,"The date of issue is established on the Sewage Certificate face.",date of issue,4,16,SPECIFICATION,Sewage Certificate face,37,60,DOCUMENTS,ESTABLISHED
+1007,"Deleting items as appropriate is required when issuing the Certificate forms.",Deleting items as appropriate,0,28,ACTIVITIES,the Certificate forms,53,73,DOCUMENTS,REQUIRED
+1008,"A barge must comply with subregulation 2(c) if no arrangements produce sewage.",barge,2,6,SYSTEM,subregulation 2(c),22,39,DOCUMENTS,COMPLY_WITH
+1009,"The Unmanned Non-Self-Propelled Barge is restricted from mechanical propulsion use.",Unmanned Non-Self-Propelled Barge,2,31,SYSTEM,mechanical propulsion use,55,80,ACTIVITIES,RESTRICT
+1010,"Endorsement on the Certificate is of vital importance for extension validity.",Endorsement on the Certificate,0,26,DOCUMENTS,extension validity,50,67,SPECIFICATION,OF
+1011,"The Minister or delegated authority implements penalty instructions if the barge is misused.",The Minister or delegated authority,0,30,AUTHORITIES,penalty instructions,43,62,PENALTIES,IMPLEMENT
+1012,"Comminuter type must have documentation showing compliance with effluent limits.",Comminuter type,0,14,SPECIFICATION,documentation showing compliance,25,55,DOCUMENTS,HAVE
+1013,"The date of survey is monitored by the Corporation for record purposes.",date of survey,4,16,SPECIFICATION,the Corporation,31,45,AUTHORITIES,MONITORS
+1014,"Any arrangement that holds sewage is restricted if the barge is unmanned.",arrangement that holds sewage,4,31,EQUIPMENTS,barge,59,63,SYSTEM,RESTRICT
+1015,"Regulation 9 requires verification procedures for issuance of Sewage Certificates.",Regulation 9,0,12,DOCUMENTS,verification procedures,21,43,PROCEDURES,REQUIRED
+1016,"Ship structure must comply with the condition stated in the survey findings.",Ship structure,0,13,SPECIFICATION,survey findings,50,65,PROCEDURES,COMPLY_WITH
+1017,"Effluent standard references are of significance to the name of manufacturer.",Effluent standard references,0,27,SPECIFICATION,name of manufacturer,54,72,SPECIFICATION,OF
+1018,"The barge must follow tasks that exclude carrying people or animals.",barge,4,8,SYSTEM,tasks that exclude carrying people or animals,19,61,ACTIVITIES,FOLLOW
+1019,"Compliance with effluent guidelines is established through resolution MEPC.227(64).",Compliance with effluent guidelines,0,31,REQUIREMENTS,resolution MEPC.227(64),52,74,DOCUMENTS,ESTABLISHED
+1020,"Inspections manage the verification of sewage system performance.",Inspections,0,11,PROCEDURES,verification of sewage system performance,21,57,EQUIPMENTS,MANAGES
+1021,"The authorized official must restrict issuance if the equipment fails compliance.",The authorized official,0,19,SUBJECT REGULATED,issuance,37,44,ACTIVITIES,RESTRICT
+1022,"A barge with no persons onboard is exempt from certain survey requirements.",barge,2,6,SYSTEM,certain survey requirements,52,76,REQUIREMENTS,RESTRICT
+1023,"System fittings have a direct effect OF the sewage discharge pipeline arrangement.",System fittings,0,13,EQUIPMENTS,sewage discharge pipeline arrangement,37,71,DISPOSAL,OF
+1024,"If the sewage treatment plant is unsatisfactory, the Corporation may revoke validity.",sewage treatment plant,4,26,EQUIPMENTS,the Corporation,48,62,AUTHORITIES,RESTRICT
+1025,"Manufacturer details must apply to the official Sewage Certificate records.",Manufacturer details,0,18,SPECIFICATION,official Sewage Certificate records,36,67,DOCUMENTS,APPLY_TO
+1026,"An owner must manage the structure of a ship to remain consistent with the certificate.",owner,2,6,SUBJECT REGULATED,the structure of a ship,19,41,SPECIFICATION,MANAGES
+1027,"A recognized authority implements the endorsement to extend a certificate's date.",A recognized authority,2,22,AUTHORITIES,the endorsement,34,48,ACTIVITIES,IMPLEMENT
+1028,"Any barge with no tank for sewage must restrict discharges under the Fourth Schedule.",barge,4,8,SYSTEM,discharges,39,48,DISPOSAL,RESTRICT
+1029,"The location of the holding tank is required in the certificate specification.",location of the holding tank,4,30,SPECIFICATION,certificate specification,53,75,DOCUMENTS,REQUIRED
+1030,"These Regulations manage effluent standards for sewage treatment plant approval.",These Regulations,0,16,DOCUMENTS,effluent standards,24,41,REQUIREMENTS,MANAGES
+1031,"A discharge pipeline must have a standard shore connection for port facilities.",discharge pipeline,2,20,EQUIPMENTS,standard shore connection,30,54,SPECIFICATION,HAVE
+1032,"Sewage plant's manufacturer name is established by the surveyor's records.",Sewage plant's manufacturer name,0,29,SPECIFICATION,the surveyor's records,45,64,DOCUMENTS,ESTABLISHED
+1033,"If the barge uses no arrangement for sewage, the Unmanned Certificate is valid.",the barge,3,7,SYSTEM,Unmanned Certificate,53,72,DOCUMENTS,OF
+1034,"Mechanical propulsion is restricted if the barge is to qualify for exemption.",Mechanical propulsion,0,19,SPECIFICATION,barge,37,41,SYSTEM,RESTRICT
+1035,"A certificate's expiration date must follow the extension endorsement procedure.",certificate's expiration date,2,27,SPECIFICATION,extension endorsement procedure,49,77,PROCEDURES,FOLLOW
+1036,"The condition of a ship's systems is monitored under regulation 9 survey.",condition of a ship's systems,4,30,SPECIFICATION,regulation 9 survey,53,70,PROCEDURES,MONITORS
+1037,"Crew must carry out an inspection if the sewage plant is replaced.",Crew,0,3,SUBJECT REGULATED,inspection,14,23,ACTIVITIES,CARRY_OUT
+1038,"Approval from the Corporation is required before installing a new comminuter.",Approval from the Corporation,0,26,ACTIVITIES,installing a new comminuter,48,75,ACTIVITIES,REQUIRED
+1039,"The standard shore connection must implement a flange meeting 600 kPa pressure.",standard shore connection,4,27,SPECIFICATION,a flange meeting 600 kPa pressure,37,70,SPECIFICATION,IMPLEMENT
+1040,"A holding tank has significance OF compliance with resolution MEPC.159(55).",holding tank,2,14,EQUIPMENTS,resolution MEPC.159(55),38,62,DOCUMENTS,OF
+1041,"Unmanned barges manage no-living-animal operations for sewage exemption.",Unmanned barges,0,14,SYSTEM,no-living-animal operations,22,44,ACTIVITIES,MANAGES
+1042,"The authorized official must comply with subregulation 1.6 for total capacity checks.",The authorized official,0,19,SUBJECT REGULATED,subregulation 1.6,33,49,DOCUMENTS,COMPLY_WITH
+1043,"Approved disinfecting systems generate effluent within permissible standards.",Approved disinfecting systems,0,27,EQUIPMENTS,effluent,37,44,POLLUTANT,GENERATES
+1044,"Mechanical propulsion usage in an unmanned barge is restricted under these Regulations.",Mechanical propulsion usage,0,26,ACTIVITIES,unmanned barge,35,49,SYSTEM,RESTRICT
+1045,"Sewage from a holding tank is regulated by pollution standards.",Sewage,0,5,DISPOSAL,pollution standards,29,47,POLLUTANT,REGULATES
+1046,"Survey findings have data OF the capacity of sewage comminuters onboard.",Survey findings,0,13,PROCEDURES,capacity of sewage comminuters onboard,21,57,EQUIPMENTS,OF
+1047,"The barge must follow rules that exclude use of mechanical propulsion.",The barge,0,8,SYSTEM,rules,19,23,REQUIREMENTS,FOLLOW
+1048,"Date endorsement is required for Sewage Certificates valid under 5 years.",Date endorsement,0,15,SPECIFICATION,Sewage Certificates,31,49,DOCUMENTS,REQUIRED
+1049,"Comminuter and holding tank data is monitored by the authorized official.",Comminuter and holding tank data,0,28,SPECIFICATION,the authorized official,46,65,SUBJECT REGULATED,MONITORS
+1050,"Manufacturer details must be in compliance with part (c) of resolution MEPC.227(64).",Manufacturer details,0,18,SPECIFICATION,part (c) of resolution MEPC.227(64),47,80,DOCUMENTS,COMPLY_WITH
+1051,"The barge's lack of sewage arrangement is established in the Exemption Certificate notes.",barge's lack of sewage arrangement,4,35,SPECIFICATION,Exemption Certificate notes,52,77,DOCUMENTS,ESTABLISHED
